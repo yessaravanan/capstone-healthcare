@@ -1,0 +1,1501 @@
+encounter_id,patient_id,date,dx_code,note
+V00676,H10279,2024-01-01,I10,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00715,H10068,2024-01-01,J45,Reports back pain episodically; denies chest pain. On meds for hyperlipidemia.
+V00951,H10046,2024-01-01,M54,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00240,H10235,2024-01-01,I25,Patient presents with fatigue for 7 days. History of hyperlipidemia. Vitals stable.
+V00695,H10096,2024-01-01,E78,Reports cough episodically; denies chest pain. On meds for OSA.
+V00357,H10204,2024-01-01,E11,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00712,H10372,2024-01-02,E11,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00643,H10359,2024-01-02,F41,Reports back pain episodically; denies chest pain. On meds for sciatica.
+V00690,H10042,2024-01-02,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00350,H10373,2024-01-02,K21,Patient presents with fatigue for 13 days. History of GAD. Vitals stable.
+V00205,H10136,2024-01-02,I10,Reports fatigue episodically; denies chest pain. On meds for hyperlipidemia.
+V01257,H10109,2024-01-02,F41,Reports back pain episodically; denies chest pain. On meds for hypertension.
+V00870,H10381,2024-01-02,J45,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00377,H10209,2024-01-02,E78,Reports indigestion episodically; denies chest pain. On meds for CAD.
+V00497,H10257,2024-01-03,E11,Patient presents with cough for 9 days. History of GAD. Vitals stable.
+V00640,H10149,2024-01-03,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01164,H10361,2024-01-03,E78,Patient presents with fatigue for 7 days. History of hypertension. Vitals stable.
+V00575,H10320,2024-01-03,E78,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00662,H10057,2024-01-03,G47,Reports anxiety episodically; denies chest pain. On meds for GAD.
+V01310,H10222,2024-01-04,E78,Patient presents with indigestion for 7 days. History of hypertension. Vitals stable.
+V00292,H10038,2024-01-04,F41,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00457,H10322,2024-01-04,I25,Reports anxiety episodically; denies chest pain. On meds for sciatica.
+V01366,H10081,2024-01-04,M54,Patient presents with anxiety for 9 days. History of hyperlipidemia. Vitals stable.
+V00281,H10146,2024-01-04,E11,Reports anxiety episodically; denies chest pain. On meds for CAD.
+V00418,H10134,2024-01-05,I25,Reports wheezing episodically; denies chest pain. On meds for sciatica.
+V01142,H10238,2024-01-05,J45,Patient presents with insomnia for 4 days. History of GERD. Vitals stable.
+V00941,H10393,2024-01-05,J45,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00382,H10347,2024-01-05,F41,Reports anxiety episodically; denies chest pain. On meds for GERD.
+V00463,H10256,2024-01-05,M54,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01056,H10237,2024-01-05,I10,Patient presents with fatigue for 2 days. History of GAD. Vitals stable.
+V01309,H10195,2024-01-05,I10,Reports anxiety episodically; denies chest pain. On meds for GERD.
+V00321,H10040,2024-01-05,E78,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01030,H10150,2024-01-05,M54,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01380,H10345,2024-01-06,J45,Reports headache episodically; denies chest pain. On meds for hyperlipidemia.
+V01415,H10075,2024-01-06,M54,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00275,H10041,2024-01-06,E78,Reports back pain episodically; denies chest pain. On meds for diabetes.
+V01360,H10094,2024-01-06,M54,Reports indigestion episodically; denies chest pain. On meds for CAD.
+V01314,H10113,2024-01-06,E11,Patient presents with insomnia for 3 days. History of asthma. Vitals stable.
+V00094,H10146,2024-01-06,K21,Reports headache episodically; denies chest pain. On meds for GAD.
+V01451,H10170,2024-01-06,E11,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00100,H10376,2024-01-06,F41,Patient presents with cough for 13 days. History of GERD. Vitals stable.
+V00338,H10184,2024-01-06,G47,Reports cough episodically; denies chest pain. On meds for hypertension.
+V01187,H10257,2024-01-07,M54,Reports headache episodically; denies chest pain. On meds for CAD.
+V00555,H10319,2024-01-07,G47,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00068,H10210,2024-01-07,G47,Reports back pain episodically; denies chest pain. On meds for sciatica.
+V00618,H10308,2024-01-07,E78,Patient presents with indigestion for 12 days. History of sciatica. Vitals stable.
+V00496,H10311,2024-01-07,I25,Patient presents with fatigue for 13 days. History of GAD. Vitals stable.
+V00334,H10095,2024-01-07,G47,Patient presents with wheezing for 7 days. History of GERD. Vitals stable.
+V00414,H10213,2024-01-07,G47,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00160,H10117,2024-01-07,E11,Reports fatigue episodically; denies chest pain. On meds for asthma.
+V00897,H10214,2024-01-07,E11,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01020,H10386,2024-01-08,E78,Patient presents with fatigue for 7 days. History of asthma. Vitals stable.
+V00663,H10305,2024-01-08,E78,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01253,H10099,2024-01-08,J45,Patient presents with dizziness for 9 days. History of OSA. Vitals stable.
+V00087,H10076,2024-01-08,G47,Reports anxiety episodically; denies chest pain. On meds for CAD.
+V01436,H10026,2024-01-08,F41,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00828,H10141,2024-01-08,I10,Reports fatigue episodically; denies chest pain. On meds for hyperlipidemia.
+V00166,H10331,2024-01-08,I10,Reports insomnia episodically; denies chest pain. On meds for sciatica.
+V00710,H10066,2024-01-08,E78,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00839,H10375,2024-01-09,G47,Reports back pain episodically; denies chest pain. On meds for hypertension.
+V00282,H10362,2024-01-09,G47,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01468,H10151,2024-01-09,I25,Patient presents with headache for 5 days. History of diabetes. Vitals stable.
+V01345,H10301,2024-01-09,F41,Patient presents with cough for 5 days. History of GERD. Vitals stable.
+V00737,H10143,2024-01-09,E78,Patient presents with dizziness for 2 days. History of hypertension. Vitals stable.
+V00378,H10260,2024-01-09,M54,Patient presents with back pain for 8 days. History of OSA. Vitals stable.
+V00038,H10052,2024-01-09,I10,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00297,H10073,2024-01-09,M54,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00680,H10319,2024-01-10,G47,Patient presents with anxiety for 6 days. History of GERD. Vitals stable.
+V00682,H10262,2024-01-10,K21,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01355,H10106,2024-01-10,M54,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00452,H10269,2024-01-10,F41,Patient presents with indigestion for 11 days. History of asthma. Vitals stable.
+V00089,H10204,2024-01-10,E11,Reports wheezing episodically; denies chest pain. On meds for hyperlipidemia.
+V01008,H10146,2024-01-10,I25,Reports cough episodically; denies chest pain. On meds for CAD.
+V01328,H10202,2024-01-11,G47,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00582,H10132,2024-01-11,K21,Patient presents with back pain for 1 days. History of sciatica. Vitals stable.
+V01311,H10115,2024-01-11,K21,Reports dizziness episodically; denies chest pain. On meds for GAD.
+V00077,H10394,2024-01-11,I25,Patient presents with wheezing for 7 days. History of asthma. Vitals stable.
+V01035,H10247,2024-01-11,K21,Patient presents with anxiety for 2 days. History of hyperlipidemia. Vitals stable.
+V01046,H10205,2024-01-11,J45,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00046,H10081,2024-01-11,I25,Patient presents with anxiety for 1 days. History of CAD. Vitals stable.
+V01352,H10361,2024-01-11,I25,Reports anxiety episodically; denies chest pain. On meds for hypertension.
+V00522,H10036,2024-01-11,G47,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00372,H10093,2024-01-11,I10,Reports headache episodically; denies chest pain. On meds for OSA.
+V00244,H10232,2024-01-12,F41,Patient presents with insomnia for 4 days. History of hyperlipidemia. Vitals stable.
+V00222,H10145,2024-01-12,E11,Reports indigestion episodically; denies chest pain. On meds for asthma.
+V00894,H10092,2024-01-12,M54,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01330,H10333,2024-01-12,E11,Patient presents with back pain for 5 days. History of hyperlipidemia. Vitals stable.
+V00105,H10117,2024-01-12,E11,Patient presents with back pain for 12 days. History of hyperlipidemia. Vitals stable.
+V01017,H10381,2024-01-12,J45,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01356,H10373,2024-01-12,F41,Reports wheezing episodically; denies chest pain. On meds for diabetes.
+V00217,H10338,2024-01-12,I10,Reports indigestion episodically; denies chest pain. On meds for OSA.
+V00353,H10245,2024-01-12,J45,Patient presents with headache for 10 days. History of GAD. Vitals stable.
+V01140,H10382,2024-01-13,K21,Reports insomnia episodically; denies chest pain. On meds for sciatica.
+V00247,H10324,2024-01-13,I10,Patient presents with insomnia for 4 days. History of OSA. Vitals stable.
+V00856,H10021,2024-01-13,G47,Patient presents with indigestion for 10 days. History of hyperlipidemia. Vitals stable.
+V01095,H10268,2024-01-13,F41,Patient presents with cough for 1 days. History of hypertension. Vitals stable.
+V00098,H10147,2024-01-14,I10,Patient presents with wheezing for 7 days. History of CAD. Vitals stable.
+V01082,H10097,2024-01-14,I25,Patient presents with back pain for 4 days. History of hypertension. Vitals stable.
+V01185,H10176,2024-01-14,F41,Patient presents with indigestion for 9 days. History of hyperlipidemia. Vitals stable.
+V00054,H10191,2024-01-14,I10,Patient presents with indigestion for 10 days. History of diabetes. Vitals stable.
+V01018,H10048,2024-01-14,E11,Reports indigestion episodically; denies chest pain. On meds for hyperlipidemia.
+V01472,H10233,2024-01-14,M54,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01393,H10272,2024-01-14,M54,Reports fatigue episodically; denies chest pain. On meds for hyperlipidemia.
+V00379,H10249,2024-01-14,I10,Reports cough episodically; denies chest pain. On meds for diabetes.
+V01264,H10291,2024-01-14,I25,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00093,H10356,2024-01-15,I10,Reports fatigue episodically; denies chest pain. On meds for OSA.
+V01326,H10332,2024-01-15,G47,Reports cough episodically; denies chest pain. On meds for CAD.
+V01384,H10122,2024-01-15,E78,Reports insomnia episodically; denies chest pain. On meds for CAD.
+V00825,H10384,2024-01-15,G47,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01101,H10137,2024-01-16,K21,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01203,H10006,2024-01-16,I25,Patient presents with back pain for 4 days. History of sciatica. Vitals stable.
+V00269,H10191,2024-01-16,F41,Patient presents with wheezing for 1 days. History of GERD. Vitals stable.
+V01072,H10294,2024-01-16,K21,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00462,H10182,2024-01-16,F41,Reports wheezing episodically; denies chest pain. On meds for sciatica.
+V00860,H10286,2024-01-16,M54,Patient presents with fatigue for 9 days. History of diabetes. Vitals stable.
+V00509,H10054,2024-01-16,E11,Reports indigestion episodically; denies chest pain. On meds for OSA.
+V01475,H10196,2024-01-16,K21,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00861,H10245,2024-01-17,F41,Reports indigestion episodically; denies chest pain. On meds for GERD.
+V00442,H10234,2024-01-17,I25,Patient presents with dizziness for 7 days. History of sciatica. Vitals stable.
+V01321,H10347,2024-01-17,F41,Patient presents with cough for 7 days. History of hypertension. Vitals stable.
+V00997,H10384,2024-01-17,I10,Patient presents with indigestion for 2 days. History of sciatica. Vitals stable.
+V00061,H10288,2024-01-17,I10,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01236,H10267,2024-01-17,I10,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00531,H10369,2024-01-17,I10,Reports headache episodically; denies chest pain. On meds for OSA.
+V01275,H10004,2024-01-18,F41,Patient presents with insomnia for 2 days. History of CAD. Vitals stable.
+V00782,H10278,2024-01-18,I25,Reports cough episodically; denies chest pain. On meds for sciatica.
+V00039,H10178,2024-01-18,I25,Reports dizziness episodically; denies chest pain. On meds for asthma.
+V01213,H10248,2024-01-18,M54,Reports cough episodically; denies chest pain. On meds for diabetes.
+V01411,H10149,2024-01-18,G47,Reports back pain episodically; denies chest pain. On meds for diabetes.
+V00685,H10305,2024-01-19,M54,Patient presents with anxiety for 8 days. History of hyperlipidemia. Vitals stable.
+V00461,H10153,2024-01-19,E78,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01255,H10085,2024-01-19,I25,Patient presents with anxiety for 5 days. History of hypertension. Vitals stable.
+V00590,H10294,2024-01-19,E78,Reports wheezing episodically; denies chest pain. On meds for diabetes.
+V01029,H10146,2024-01-19,I25,Patient presents with anxiety for 4 days. History of asthma. Vitals stable.
+V01119,H10392,2024-01-20,G47,Patient presents with wheezing for 13 days. History of hypertension. Vitals stable.
+V00746,H10195,2024-01-20,E78,Reports back pain episodically; denies chest pain. On meds for asthma.
+V00123,H10161,2024-01-20,E11,Reports back pain episodically; denies chest pain. On meds for GERD.
+V00508,H10024,2024-01-20,I25,Patient presents with back pain for 9 days. History of GERD. Vitals stable.
+V00264,H10292,2024-01-20,M54,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00127,H10212,2024-01-20,F41,Reports insomnia episodically; denies chest pain. On meds for OSA.
+V00908,H10302,2024-01-20,J45,Reports dizziness episodically; denies chest pain. On meds for asthma.
+V00185,H10194,2024-01-20,E11,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01323,H10086,2024-01-21,F41,Patient presents with wheezing for 13 days. History of asthma. Vitals stable.
+V00978,H10371,2024-01-21,M54,Reports anxiety episodically; denies chest pain. On meds for hypertension.
+V01242,H10180,2024-01-21,I25,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00220,H10045,2024-01-21,G47,Patient presents with dizziness for 10 days. History of diabetes. Vitals stable.
+V00359,H10094,2024-01-21,F41,Patient presents with indigestion for 11 days. History of OSA. Vitals stable.
+V00718,H10234,2024-01-21,G47,Reports cough episodically; denies chest pain. On meds for OSA.
+V00977,H10023,2024-01-21,K21,Patient presents with fatigue for 11 days. History of hypertension. Vitals stable.
+V01482,H10173,2024-01-21,K21,Patient presents with dizziness for 7 days. History of diabetes. Vitals stable.
+V00484,H10152,2024-01-22,I25,Reports dizziness episodically; denies chest pain. On meds for CAD.
+V00476,H10037,2024-01-22,I25,Reports cough episodically; denies chest pain. On meds for asthma.
+V00543,H10146,2024-01-22,I10,Patient presents with dizziness for 13 days. History of CAD. Vitals stable.
+V01283,H10379,2024-01-22,F41,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01383,H10350,2024-01-22,F41,Patient presents with indigestion for 13 days. History of hypertension. Vitals stable.
+V00370,H10008,2024-01-22,F41,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00926,H10210,2024-01-22,I25,Reports back pain episodically; denies chest pain. On meds for OSA.
+V00868,H10264,2024-01-22,F41,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00845,H10300,2024-01-22,J45,Patient presents with wheezing for 8 days. History of diabetes. Vitals stable.
+V00523,H10053,2024-01-23,I25,Reports back pain episodically; denies chest pain. On meds for hypertension.
+V00842,H10391,2024-01-23,F41,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01426,H10175,2024-01-23,G47,Patient presents with indigestion for 6 days. History of hypertension. Vitals stable.
+V00681,H10259,2024-01-23,I25,Reports headache episodically; denies chest pain. On meds for diabetes.
+V00189,H10130,2024-01-23,G47,Patient presents with wheezing for 13 days. History of diabetes. Vitals stable.
+V00602,H10281,2024-01-23,M54,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01350,H10082,2024-01-24,J45,Patient presents with cough for 5 days. History of hypertension. Vitals stable.
+V00867,H10074,2024-01-24,E78,Patient presents with anxiety for 12 days. History of CAD. Vitals stable.
+V01249,H10032,2024-01-24,F41,Reports indigestion episodically; denies chest pain. On meds for diabetes.
+V00326,H10298,2024-01-24,I25,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00609,H10272,2024-01-24,G47,Reports wheezing episodically; denies chest pain. On meds for GERD.
+V00171,H10352,2024-01-24,I25,Patient presents with insomnia for 11 days. History of sciatica. Vitals stable.
+V00631,H10315,2024-01-24,K21,Patient presents with fatigue for 9 days. History of GERD. Vitals stable.
+V00385,H10128,2024-01-24,K21,Patient presents with cough for 3 days. History of diabetes. Vitals stable.
+V01189,H10066,2024-01-24,I10,Patient presents with fatigue for 5 days. History of GERD. Vitals stable.
+V00270,H10256,2024-01-24,I10,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00266,H10089,2024-01-24,G47,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00125,H10186,2024-01-25,G47,Reports headache episodically; denies chest pain. On meds for sciatica.
+V00071,H10038,2024-01-25,G47,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00301,H10028,2024-01-25,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01202,H10371,2024-01-25,G47,Patient presents with headache for 13 days. History of GERD. Vitals stable.
+V00909,H10114,2024-01-25,F41,Reports back pain episodically; denies chest pain. On meds for GAD.
+V01113,H10382,2024-01-25,G47,Reports back pain episodically; denies chest pain. On meds for GERD.
+V00581,H10172,2024-01-25,E78,Patient presents with insomnia for 6 days. History of sciatica. Vitals stable.
+V00212,H10100,2024-01-26,E11,Reports indigestion episodically; denies chest pain. On meds for sciatica.
+V01210,H10280,2024-01-26,E78,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00683,H10033,2024-01-26,J45,Patient presents with back pain for 12 days. History of hypertension. Vitals stable.
+V00116,H10240,2024-01-26,I25,Patient presents with headache for 8 days. History of hyperlipidemia. Vitals stable.
+V00395,H10130,2024-01-26,M54,Reports headache episodically; denies chest pain. On meds for hypertension.
+V00696,H10315,2024-01-26,I10,Reports insomnia episodically; denies chest pain. On meds for hypertension.
+V00679,H10305,2024-01-26,J45,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00049,H10167,2024-01-26,J45,Reports back pain episodically; denies chest pain. On meds for GERD.
+V00657,H10352,2024-01-26,K21,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00145,H10205,2024-01-26,K21,Patient presents with anxiety for 12 days. History of OSA. Vitals stable.
+V01442,H10386,2024-01-26,I25,Reports headache episodically; denies chest pain. On meds for hypertension.
+V00188,H10094,2024-01-26,J45,Patient presents with wheezing for 13 days. History of diabetes. Vitals stable.
+V00383,H10313,2024-01-27,G47,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01034,H10306,2024-01-27,J45,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01121,H10039,2024-01-27,E78,Reports back pain episodically; denies chest pain. On meds for OSA.
+V00608,H10169,2024-01-27,F41,Reports cough episodically; denies chest pain. On meds for GERD.
+V00999,H10203,2024-01-27,J45,Reports cough episodically; denies chest pain. On meds for OSA.
+V00541,H10211,2024-01-27,E11,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00112,H10200,2024-01-27,J45,Reports cough episodically; denies chest pain. On meds for GERD.
+V01462,H10047,2024-01-28,E11,Patient presents with cough for 12 days. History of CAD. Vitals stable.
+V00335,H10391,2024-01-28,M54,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01218,H10096,2024-01-28,I10,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00701,H10389,2024-01-28,G47,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01027,H10210,2024-01-28,F41,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01001,H10212,2024-01-28,K21,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00358,H10045,2024-01-29,G47,Patient presents with indigestion for 11 days. History of GERD. Vitals stable.
+V01386,H10194,2024-01-29,I10,Reports anxiety episodically; denies chest pain. On meds for diabetes.
+V00403,H10343,2024-01-29,I10,Reports wheezing episodically; denies chest pain. On meds for diabetes.
+V00398,H10197,2024-01-29,I25,Patient presents with indigestion for 1 days. History of GERD. Vitals stable.
+V00648,H10268,2024-01-29,M54,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00535,H10387,2024-01-29,I25,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00040,H10091,2024-01-30,E78,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01348,H10325,2024-01-30,J45,Reports indigestion episodically; denies chest pain. On meds for GERD.
+V00545,H10201,2024-01-30,I25,Reports wheezing episodically; denies chest pain. On meds for GAD.
+V00892,H10208,2024-01-30,I10,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01149,H10329,2024-01-30,I25,Patient presents with dizziness for 4 days. History of sciatica. Vitals stable.
+V00637,H10266,2024-01-31,M54,Reports back pain episodically; denies chest pain. On meds for hypertension.
+V01162,H10362,2024-01-31,G47,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00317,H10068,2024-01-31,J45,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00465,H10033,2024-01-31,M54,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00786,H10136,2024-01-31,I25,Reports indigestion episodically; denies chest pain. On meds for sciatica.
+V00479,H10255,2024-01-31,J45,Reports insomnia episodically; denies chest pain. On meds for GAD.
+V01069,H10077,2024-01-31,J45,Patient presents with back pain for 9 days. History of sciatica. Vitals stable.
+V00883,H10334,2024-01-31,G47,Reports back pain episodically; denies chest pain. On meds for GAD.
+V01340,H10030,2024-01-31,M54,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00624,H10062,2024-01-31,F41,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00352,H10356,2024-02-01,I25,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00963,H10003,2024-02-01,E11,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00844,H10373,2024-02-01,G47,Patient presents with insomnia for 12 days. History of GERD. Vitals stable.
+V00421,H10083,2024-02-01,F41,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01066,H10304,2024-02-02,K21,Patient presents with back pain for 7 days. History of hyperlipidemia. Vitals stable.
+V00504,H10012,2024-02-02,F41,Patient presents with dizziness for 3 days. History of diabetes. Vitals stable.
+V00738,H10218,2024-02-02,E78,Reports cough episodically; denies chest pain. On meds for hyperlipidemia.
+V01217,H10041,2024-02-02,E11,Patient presents with headache for 9 days. History of asthma. Vitals stable.
+V01263,H10328,2024-02-02,I10,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01286,H10388,2024-02-02,E78,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00218,H10192,2024-02-02,F41,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01125,H10216,2024-02-02,K21,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00231,H10327,2024-02-02,J45,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01093,H10158,2024-02-02,J45,Patient presents with dizziness for 8 days. History of hyperlipidemia. Vitals stable.
+V01071,H10217,2024-02-02,E11,Patient presents with indigestion for 4 days. History of sciatica. Vitals stable.
+V00058,H10305,2024-02-02,I10,Patient presents with headache for 10 days. History of CAD. Vitals stable.
+V01277,H10013,2024-02-03,E78,Patient presents with insomnia for 11 days. History of GERD. Vitals stable.
+V01282,H10371,2024-02-03,G47,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00851,H10078,2024-02-03,J45,Patient presents with insomnia for 7 days. History of sciatica. Vitals stable.
+V00666,H10206,2024-02-03,I10,Patient presents with back pain for 13 days. History of CAD. Vitals stable.
+V00585,H10195,2024-02-03,K21,Patient presents with wheezing for 9 days. History of OSA. Vitals stable.
+V01274,H10058,2024-02-04,F41,Patient presents with headache for 4 days. History of asthma. Vitals stable.
+V00143,H10151,2024-02-04,I10,Reports wheezing episodically; denies chest pain. On meds for sciatica.
+V01198,H10126,2024-02-04,G47,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00806,H10119,2024-02-04,F41,Reports back pain episodically; denies chest pain. On meds for OSA.
+V00767,H10053,2024-02-04,I10,Reports back pain episodically; denies chest pain. On meds for asthma.
+V00035,H10248,2024-02-04,E11,Patient presents with cough for 11 days. History of asthma. Vitals stable.
+V01408,H10066,2024-02-04,I10,Patient presents with indigestion for 3 days. History of hypertension. Vitals stable.
+V01097,H10196,2024-02-04,M54,Reports headache episodically; denies chest pain. On meds for CAD.
+V00534,H10368,2024-02-04,E11,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00686,H10272,2024-02-04,E11,Reports indigestion episodically; denies chest pain. On meds for GAD.
+V00424,H10034,2024-02-05,G47,Patient presents with insomnia for 13 days. History of GERD. Vitals stable.
+V00704,H10082,2024-02-05,I10,Patient presents with insomnia for 2 days. History of GERD. Vitals stable.
+V00433,H10161,2024-02-05,F41,Patient presents with wheezing for 12 days. History of hyperlipidemia. Vitals stable.
+V01019,H10239,2024-02-05,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00364,H10269,2024-02-05,G47,Reports fatigue episodically; denies chest pain. On meds for diabetes.
+V00248,H10184,2024-02-05,G47,Reports wheezing episodically; denies chest pain. On meds for OSA.
+V00943,H10133,2024-02-05,K21,Patient presents with insomnia for 10 days. History of asthma. Vitals stable.
+V01194,H10029,2024-02-06,E11,Reports dizziness episodically; denies chest pain. On meds for sciatica.
+V00344,H10219,2024-02-06,K21,Patient presents with insomnia for 3 days. History of hypertension. Vitals stable.
+V00744,H10302,2024-02-06,J45,Reports back pain episodically; denies chest pain. On meds for OSA.
+V00901,H10212,2024-02-06,I25,Reports fatigue episodically; denies chest pain. On meds for GAD.
+V01430,H10178,2024-02-06,I25,Patient presents with anxiety for 6 days. History of hyperlipidemia. Vitals stable.
+V00474,H10299,2024-02-06,K21,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00128,H10367,2024-02-06,K21,Reports fatigue episodically; denies chest pain. On meds for GAD.
+V00603,H10302,2024-02-06,I10,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01494,H10023,2024-02-06,M54,Patient presents with insomnia for 13 days. History of OSA. Vitals stable.
+V01108,H10057,2024-02-06,I10,Reports insomnia episodically; denies chest pain. On meds for CAD.
+V01237,H10294,2024-02-06,I25,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00958,H10382,2024-02-06,I25,Reports anxiety episodically; denies chest pain. On meds for CAD.
+V01184,H10362,2024-02-07,I25,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01376,H10351,2024-02-07,E11,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01051,H10395,2024-02-07,E11,Reports back pain episodically; denies chest pain. On meds for sciatica.
+V00012,H10222,2024-02-07,K21,Reports indigestion episodically; denies chest pain. On meds for asthma.
+V01431,H10261,2024-02-07,E78,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01429,H10250,2024-02-07,E11,Reports anxiety episodically; denies chest pain. On meds for hypertension.
+V01061,H10137,2024-02-07,F41,Patient presents with indigestion for 1 days. History of diabetes. Vitals stable.
+V00876,H10280,2024-02-07,F41,Reports insomnia episodically; denies chest pain. On meds for CAD.
+V00639,H10137,2024-02-07,I10,Patient presents with dizziness for 8 days. History of CAD. Vitals stable.
+V00671,H10117,2024-02-07,K21,Patient presents with headache for 6 days. History of asthma. Vitals stable.
+V00707,H10031,2024-02-08,F41,Reports cough episodically; denies chest pain. On meds for asthma.
+V01135,H10116,2024-02-08,G47,Patient presents with back pain for 5 days. History of hypertension. Vitals stable.
+V00642,H10117,2024-02-08,M54,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00312,H10227,2024-02-08,M54,Patient presents with dizziness for 1 days. History of asthma. Vitals stable.
+V00586,H10188,2024-02-08,G47,Patient presents with cough for 3 days. History of CAD. Vitals stable.
+V00771,H10132,2024-02-08,I25,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00106,H10339,2024-02-08,I10,Patient presents with headache for 6 days. History of hyperlipidemia. Vitals stable.
+V00458,H10227,2024-02-08,G47,Reports wheezing episodically; denies chest pain. On meds for OSA.
+V00413,H10255,2024-02-09,M54,Reports indigestion episodically; denies chest pain. On meds for CAD.
+V01490,H10305,2024-02-09,K21,Reports headache episodically; denies chest pain. On meds for CAD.
+V01060,H10143,2024-02-09,F41,Patient presents with anxiety for 10 days. History of asthma. Vitals stable.
+V00354,H10329,2024-02-09,F41,Reports insomnia episodically; denies chest pain. On meds for asthma.
+V01410,H10228,2024-02-09,I25,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00841,H10100,2024-02-09,E11,Reports anxiety episodically; denies chest pain. On meds for asthma.
+V00729,H10259,2024-02-09,I25,Reports wheezing episodically; denies chest pain. On meds for GAD.
+V00067,H10016,2024-02-09,F41,Patient presents with cough for 2 days. History of asthma. Vitals stable.
+V00161,H10331,2024-02-09,M54,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01474,H10292,2024-02-09,E11,Patient presents with headache for 8 days. History of sciatica. Vitals stable.
+V00775,H10145,2024-02-09,K21,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00343,H10256,2024-02-10,E78,Patient presents with wheezing for 8 days. History of sciatica. Vitals stable.
+V00402,H10097,2024-02-10,F41,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01232,H10384,2024-02-11,I10,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00614,H10082,2024-02-11,E11,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00700,H10055,2024-02-11,G47,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00389,H10222,2024-02-11,K21,Patient presents with back pain for 6 days. History of hyperlipidemia. Vitals stable.
+V00750,H10369,2024-02-12,I25,Patient presents with indigestion for 13 days. History of hyperlipidemia. Vitals stable.
+V00725,H10024,2024-02-12,I10,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01054,H10184,2024-02-12,I25,Patient presents with anxiety for 1 days. History of hyperlipidemia. Vitals stable.
+V00066,H10233,2024-02-12,K21,Reports dizziness episodically; denies chest pain. On meds for diabetes.
+V01478,H10063,2024-02-13,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00801,H10386,2024-02-13,F41,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00258,H10057,2024-02-13,G47,Reports wheezing episodically; denies chest pain. On meds for sciatica.
+V00157,H10140,2024-02-13,F41,Reports indigestion episodically; denies chest pain. On meds for hypertension.
+V01377,H10086,2024-02-13,E78,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00779,H10397,2024-02-13,J45,Patient presents with indigestion for 8 days. History of hypertension. Vitals stable.
+V00438,H10189,2024-02-13,F41,Reports insomnia episodically; denies chest pain. On meds for asthma.
+V01087,H10295,2024-02-14,F41,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00815,H10115,2024-02-14,E11,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01433,H10077,2024-02-14,M54,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00156,H10100,2024-02-14,M54,Reports indigestion episodically; denies chest pain. On meds for hypertension.
+V01346,H10168,2024-02-14,E78,Patient presents with wheezing for 9 days. History of GERD. Vitals stable.
+V00027,H10147,2024-02-14,I10,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00544,H10287,2024-02-14,E11,Patient presents with headache for 3 days. History of hyperlipidemia. Vitals stable.
+V00086,H10070,2024-02-14,F41,Patient presents with dizziness for 8 days. History of GERD. Vitals stable.
+V00969,H10192,2024-02-14,G47,Patient presents with anxiety for 12 days. History of GAD. Vitals stable.
+V00259,H10379,2024-02-14,E78,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00300,H10024,2024-02-15,F41,Patient presents with fatigue for 11 days. History of OSA. Vitals stable.
+V01357,H10006,2024-02-15,E78,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01099,H10291,2024-02-15,M54,Reports back pain episodically; denies chest pain. On meds for CAD.
+V00540,H10113,2024-02-15,I10,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01424,H10348,2024-02-15,I25,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00443,H10351,2024-02-15,E11,Patient presents with anxiety for 6 days. History of asthma. Vitals stable.
+V00422,H10228,2024-02-15,I25,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01134,H10092,2024-02-15,E11,Reports wheezing episodically; denies chest pain. On meds for sciatica.
+V01298,H10354,2024-02-16,I25,Patient presents with cough for 13 days. History of CAD. Vitals stable.
+V01079,H10174,2024-02-16,G47,Patient presents with wheezing for 7 days. History of CAD. Vitals stable.
+V00885,H10285,2024-02-16,E11,Reports headache episodically; denies chest pain. On meds for hyperlipidemia.
+V00515,H10017,2024-02-16,E11,Patient presents with insomnia for 1 days. History of GAD. Vitals stable.
+V00987,H10016,2024-02-16,J45,Patient presents with wheezing for 5 days. History of OSA. Vitals stable.
+V00177,H10319,2024-02-17,I25,Patient presents with insomnia for 5 days. History of GAD. Vitals stable.
+V00332,H10385,2024-02-17,F41,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01045,H10130,2024-02-17,G47,Patient presents with cough for 5 days. History of sciatica. Vitals stable.
+V00305,H10178,2024-02-17,F41,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01179,H10220,2024-02-17,F41,Patient presents with dizziness for 9 days. History of hypertension. Vitals stable.
+V00042,H10068,2024-02-17,I25,Patient presents with anxiety for 6 days. History of hypertension. Vitals stable.
+V00182,H10343,2024-02-17,E78,Reports insomnia episodically; denies chest pain. On meds for sciatica.
+V00568,H10053,2024-02-18,F41,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01470,H10208,2024-02-18,F41,Patient presents with back pain for 2 days. History of hypertension. Vitals stable.
+V00635,H10170,2024-02-18,I25,Patient presents with cough for 1 days. History of OSA. Vitals stable.
+V01062,H10033,2024-02-18,K21,Reports insomnia episodically; denies chest pain. On meds for sciatica.
+V00477,H10101,2024-02-19,G47,Patient presents with insomnia for 12 days. History of hypertension. Vitals stable.
+V00525,H10268,2024-02-19,F41,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00075,H10338,2024-02-19,K21,Reports headache episodically; denies chest pain. On meds for hyperlipidemia.
+V00154,H10115,2024-02-19,E78,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00965,H10181,2024-02-19,M54,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00625,H10217,2024-02-19,K21,Reports back pain episodically; denies chest pain. On meds for hyperlipidemia.
+V00913,H10075,2024-02-19,M54,Patient presents with headache for 5 days. History of GERD. Vitals stable.
+V00226,H10290,2024-02-19,G47,Patient presents with back pain for 1 days. History of sciatica. Vitals stable.
+V01239,H10061,2024-02-19,K21,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00722,H10283,2024-02-19,E11,Patient presents with indigestion for 4 days. History of diabetes. Vitals stable.
+V00488,H10085,2024-02-20,J45,Patient presents with anxiety for 8 days. History of diabetes. Vitals stable.
+V00580,H10255,2024-02-20,E11,Patient presents with insomnia for 7 days. History of hypertension. Vitals stable.
+V00749,H10149,2024-02-20,I10,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00232,H10110,2024-02-21,M54,Reports back pain episodically; denies chest pain. On meds for hyperlipidemia.
+V00955,H10112,2024-02-21,G47,Reports indigestion episodically; denies chest pain. On meds for OSA.
+V00957,H10156,2024-02-21,I10,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00088,H10173,2024-02-21,F41,Patient presents with anxiety for 1 days. History of GERD. Vitals stable.
+V00994,H10196,2024-02-21,I25,Patient presents with indigestion for 6 days. History of CAD. Vitals stable.
+V00812,H10204,2024-02-22,F41,Patient presents with indigestion for 12 days. History of diabetes. Vitals stable.
+V00937,H10181,2024-02-22,M54,Patient presents with back pain for 4 days. History of diabetes. Vitals stable.
+V00467,H10093,2024-02-22,E78,Reports insomnia episodically; denies chest pain. On meds for CAD.
+V00211,H10133,2024-02-22,F41,Reports anxiety episodically; denies chest pain. On meds for GAD.
+V00064,H10347,2024-02-22,F41,Reports back pain episodically; denies chest pain. On meds for asthma.
+V01191,H10172,2024-02-22,E78,Reports cough episodically; denies chest pain. On meds for hyperlipidemia.
+V00184,H10353,2024-02-22,K21,Patient presents with fatigue for 2 days. History of GERD. Vitals stable.
+V01327,H10080,2024-02-22,E78,Reports dizziness episodically; denies chest pain. On meds for hyperlipidemia.
+V01369,H10107,2024-02-22,I10,Reports headache episodically; denies chest pain. On meds for OSA.
+V00699,H10091,2024-02-22,M54,Patient presents with insomnia for 10 days. History of CAD. Vitals stable.
+V01163,H10318,2024-02-23,I25,Reports insomnia episodically; denies chest pain. On meds for asthma.
+V00031,H10237,2024-02-23,I10,Patient presents with fatigue for 6 days. History of GAD. Vitals stable.
+V01270,H10220,2024-02-23,F41,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01280,H10209,2024-02-23,J45,Patient presents with wheezing for 9 days. History of GAD. Vitals stable.
+V00454,H10017,2024-02-23,E11,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00619,H10185,2024-02-23,G47,Reports indigestion episodically; denies chest pain. On meds for sciatica.
+V01193,H10034,2024-02-23,K21,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00558,H10227,2024-02-23,E11,Patient presents with headache for 7 days. History of OSA. Vitals stable.
+V00103,H10085,2024-02-23,J45,Reports dizziness episodically; denies chest pain. On meds for OSA.
+V01015,H10343,2024-02-23,I25,Patient presents with dizziness for 2 days. History of asthma. Vitals stable.
+V01110,H10233,2024-02-23,F41,Reports insomnia episodically; denies chest pain. On meds for OSA.
+V00542,H10184,2024-02-23,E11,Reports insomnia episodically; denies chest pain. On meds for asthma.
+V01144,H10397,2024-02-23,E78,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00713,H10086,2024-02-23,E78,Patient presents with headache for 12 days. History of CAD. Vitals stable.
+V00831,H10371,2024-02-24,G47,Patient presents with indigestion for 11 days. History of asthma. Vitals stable.
+V01206,H10251,2024-02-24,K21,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00272,H10178,2024-02-24,G47,Reports insomnia episodically; denies chest pain. On meds for GAD.
+V00390,H10322,2024-02-24,F41,Patient presents with anxiety for 12 days. History of GAD. Vitals stable.
+V01388,H10237,2024-02-24,K21,Reports anxiety episodically; denies chest pain. On meds for diabetes.
+V01148,H10195,2024-02-24,E11,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00017,H10180,2024-02-24,J45,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00797,H10102,2024-02-25,J45,Patient presents with anxiety for 3 days. History of hypertension. Vitals stable.
+V00294,H10308,2024-02-25,E78,Reports cough episodically; denies chest pain. On meds for GAD.
+V00922,H10314,2024-02-26,F41,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01378,H10336,2024-02-26,F41,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01338,H10276,2024-02-26,J45,Reports wheezing episodically; denies chest pain. On meds for sciatica.
+V00889,H10221,2024-02-26,E78,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01333,H10111,2024-02-26,E78,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01438,H10342,2024-02-26,E78,Reports cough episodically; denies chest pain. On meds for asthma.
+V01063,H10271,2024-02-26,I10,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01404,H10218,2024-02-26,G47,Patient presents with cough for 12 days. History of asthma. Vitals stable.
+V00985,H10085,2024-02-27,I25,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00361,H10251,2024-02-27,I10,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01409,H10301,2024-02-27,J45,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00974,H10319,2024-02-27,F41,Reports headache episodically; denies chest pain. On meds for GERD.
+V00074,H10183,2024-02-27,J45,Patient presents with back pain for 8 days. History of hypertension. Vitals stable.
+V00859,H10163,2024-02-27,G47,Reports fatigue episodically; denies chest pain. On meds for CAD.
+V01390,H10395,2024-02-27,E78,Patient presents with fatigue for 7 days. History of GAD. Vitals stable.
+V00172,H10365,2024-02-27,E78,Patient presents with cough for 1 days. History of GAD. Vitals stable.
+V00948,H10161,2024-02-27,M54,Reports headache episodically; denies chest pain. On meds for CAD.
+V00702,H10329,2024-02-27,F41,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01169,H10001,2024-02-28,I25,Patient presents with anxiety for 10 days. History of diabetes. Vitals stable.
+V00036,H10091,2024-02-28,E78,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00720,H10166,2024-02-28,K21,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00934,H10198,2024-02-28,I25,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00904,H10083,2024-02-28,F41,Patient presents with back pain for 8 days. History of diabetes. Vitals stable.
+V01065,H10131,2024-02-28,M54,Patient presents with back pain for 2 days. History of GAD. Vitals stable.
+V01141,H10025,2024-02-28,J45,Patient presents with indigestion for 2 days. History of GAD. Vitals stable.
+V00911,H10071,2024-02-28,J45,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00571,H10363,2024-02-28,M54,Reports fatigue episodically; denies chest pain. On meds for CAD.
+V01445,H10095,2024-02-28,F41,Reports indigestion episodically; denies chest pain. On meds for OSA.
+V00784,H10087,2024-02-28,I25,Reports back pain episodically; denies chest pain. On meds for sciatica.
+V00653,H10095,2024-02-28,E78,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01233,H10158,2024-02-28,K21,Reports dizziness episodically; denies chest pain. On meds for CAD.
+V01435,H10207,2024-02-29,I25,Reports insomnia episodically; denies chest pain. On meds for GERD.
+V01385,H10090,2024-02-29,E11,Reports headache episodically; denies chest pain. On meds for GAD.
+V00530,H10306,2024-02-29,E11,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00996,H10026,2024-02-29,E78,Reports headache episodically; denies chest pain. On meds for CAD.
+V01452,H10083,2024-02-29,I10,Reports dizziness episodically; denies chest pain. On meds for asthma.
+V00006,H10063,2024-02-29,F41,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00447,H10383,2024-02-29,E11,Reports anxiety episodically; denies chest pain. On meds for diabetes.
+V01221,H10141,2024-02-29,K21,Patient presents with fatigue for 12 days. History of diabetes. Vitals stable.
+V00453,H10055,2024-03-01,E78,Patient presents with insomnia for 6 days. History of GAD. Vitals stable.
+V01139,H10314,2024-03-01,E11,Patient presents with indigestion for 3 days. History of OSA. Vitals stable.
+V00591,H10083,2024-03-01,J45,Patient presents with anxiety for 5 days. History of GERD. Vitals stable.
+V00179,H10235,2024-03-01,E11,Patient presents with insomnia for 1 days. History of OSA. Vitals stable.
+V00060,H10337,2024-03-02,F41,Reports cough episodically; denies chest pain. On meds for GERD.
+V01226,H10015,2024-03-02,K21,Reports dizziness episodically; denies chest pain. On meds for OSA.
+V00932,H10210,2024-03-02,I25,Patient presents with cough for 12 days. History of asthma. Vitals stable.
+V00316,H10389,2024-03-02,I25,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00183,H10173,2024-03-02,G47,Patient presents with indigestion for 10 days. History of OSA. Vitals stable.
+V00320,H10335,2024-03-02,G47,Patient presents with dizziness for 5 days. History of OSA. Vitals stable.
+V00821,H10219,2024-03-02,I10,Reports wheezing episodically; denies chest pain. On meds for OSA.
+V00634,H10349,2024-03-02,G47,Reports wheezing episodically; denies chest pain. On meds for hypertension.
+V00336,H10028,2024-03-02,F41,Patient presents with wheezing for 11 days. History of GERD. Vitals stable.
+V01497,H10059,2024-03-03,I25,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00772,H10237,2024-03-03,I25,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00769,H10145,2024-03-03,E11,Patient presents with wheezing for 4 days. History of OSA. Vitals stable.
+V00455,H10338,2024-03-03,I25,Patient presents with fatigue for 7 days. History of GERD. Vitals stable.
+V00850,H10273,2024-03-03,J45,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00286,H10051,2024-03-03,E78,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00800,H10293,2024-03-03,J45,Reports cough episodically; denies chest pain. On meds for GERD.
+V00466,H10133,2024-03-03,E78,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01231,H10331,2024-03-04,I25,Reports back pain episodically; denies chest pain. On meds for sciatica.
+V00328,H10297,2024-03-04,E78,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00638,H10364,2024-03-04,F41,Reports headache episodically; denies chest pain. On meds for OSA.
+V00210,H10185,2024-03-04,E78,Patient presents with insomnia for 12 days. History of sciatica. Vitals stable.
+V00096,H10200,2024-03-04,E78,Patient presents with back pain for 3 days. History of GERD. Vitals stable.
+V00440,H10008,2024-03-04,I25,Reports indigestion episodically; denies chest pain. On meds for diabetes.
+V01484,H10185,2024-03-04,G47,Patient presents with indigestion for 9 days. History of asthma. Vitals stable.
+V01477,H10185,2024-03-04,F41,Patient presents with anxiety for 7 days. History of sciatica. Vitals stable.
+V00431,H10017,2024-03-04,M54,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00076,H10157,2024-03-05,I10,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00121,H10252,2024-03-05,F41,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00323,H10027,2024-03-05,I25,Patient presents with anxiety for 2 days. History of GAD. Vitals stable.
+V00790,H10180,2024-03-05,E11,Patient presents with indigestion for 13 days. History of GAD. Vitals stable.
+V01289,H10181,2024-03-05,E11,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00832,H10363,2024-03-05,E11,Reports wheezing episodically; denies chest pain. On meds for asthma.
+V00113,H10177,2024-03-06,I25,Reports cough episodically; denies chest pain. On meds for hypertension.
+V00492,H10088,2024-03-06,F41,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01495,H10339,2024-03-06,E78,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00764,H10184,2024-03-06,G47,Reports dizziness episodically; denies chest pain. On meds for diabetes.
+V00818,H10182,2024-03-06,J45,Patient presents with cough for 10 days. History of asthma. Vitals stable.
+V00444,H10065,2024-03-06,F41,Reports wheezing episodically; denies chest pain. On meds for GAD.
+V00863,H10174,2024-03-06,E78,Reports fatigue episodically; denies chest pain. On meds for asthma.
+V01028,H10200,2024-03-07,F41,Reports cough episodically; denies chest pain. On meds for OSA.
+V00880,H10083,2024-03-07,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01302,H10360,2024-03-07,I10,Patient presents with back pain for 12 days. History of CAD. Vitals stable.
+V00152,H10266,2024-03-07,E78,Reports indigestion episodically; denies chest pain. On meds for diabetes.
+V00768,H10331,2024-03-07,K21,Patient presents with indigestion for 3 days. History of diabetes. Vitals stable.
+V00164,H10189,2024-03-07,F41,Reports back pain episodically; denies chest pain. On meds for hyperlipidemia.
+V00822,H10227,2024-03-07,G47,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01129,H10191,2024-03-07,J45,Reports headache episodically; denies chest pain. On meds for hypertension.
+V01102,H10042,2024-03-07,I25,Patient presents with wheezing for 8 days. History of hyperlipidemia. Vitals stable.
+V00252,H10181,2024-03-08,J45,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01371,H10074,2024-03-08,E78,Reports headache episodically; denies chest pain. On meds for CAD.
+V00910,H10149,2024-03-08,J45,Patient presents with wheezing for 6 days. History of GERD. Vitals stable.
+V00811,H10374,2024-03-08,G47,Patient presents with indigestion for 7 days. History of hypertension. Vitals stable.
+V00626,H10169,2024-03-08,E11,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01157,H10374,2024-03-08,I25,Patient presents with dizziness for 1 days. History of sciatica. Vitals stable.
+V01172,H10087,2024-03-08,E78,Reports cough episodically; denies chest pain. On meds for diabetes.
+V01483,H10268,2024-03-09,J45,Reports anxiety episodically; denies chest pain. On meds for hyperlipidemia.
+V01334,H10370,2024-03-09,J45,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00239,H10186,2024-03-09,E11,Patient presents with anxiety for 12 days. History of hyperlipidemia. Vitals stable.
+V00748,H10298,2024-03-09,K21,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01122,H10145,2024-03-09,M54,Patient presents with wheezing for 1 days. History of diabetes. Vitals stable.
+V00250,H10153,2024-03-10,G47,Patient presents with fatigue for 2 days. History of CAD. Vitals stable.
+V00527,H10061,2024-03-10,E78,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00524,H10377,2024-03-10,M54,Reports wheezing episodically; denies chest pain. On meds for hypertension.
+V01301,H10203,2024-03-10,F41,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00651,H10359,2024-03-10,E78,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00494,H10035,2024-03-10,J45,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01006,H10147,2024-03-10,M54,Reports dizziness episodically; denies chest pain. On meds for GERD.
+V01361,H10336,2024-03-10,F41,Patient presents with wheezing for 11 days. History of sciatica. Vitals stable.
+V00646,H10203,2024-03-11,J45,Patient presents with indigestion for 2 days. History of hypertension. Vitals stable.
+V00547,H10034,2024-03-11,K21,Patient presents with fatigue for 9 days. History of asthma. Vitals stable.
+V00376,H10195,2024-03-11,K21,Reports indigestion episodically; denies chest pain. On meds for OSA.
+V01038,H10164,2024-03-11,I25,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00464,H10105,2024-03-11,I25,Patient presents with cough for 11 days. History of hypertension. Vitals stable.
+V00675,H10031,2024-03-11,E78,Reports back pain episodically; denies chest pain. On meds for GAD.
+V00678,H10016,2024-03-11,F41,Patient presents with dizziness for 8 days. History of hyperlipidemia. Vitals stable.
+V00141,H10323,2024-03-11,K21,Patient presents with indigestion for 2 days. History of GAD. Vitals stable.
+V00814,H10186,2024-03-11,M54,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01026,H10396,2024-03-12,F41,Reports indigestion episodically; denies chest pain. On meds for asthma.
+V01336,H10208,2024-03-12,J45,Reports headache episodically; denies chest pain. On meds for hyperlipidemia.
+V00893,H10074,2024-03-12,I10,Patient presents with cough for 11 days. History of asthma. Vitals stable.
+V01176,H10291,2024-03-12,M54,Reports dizziness episodically; denies chest pain. On meds for CAD.
+V00227,H10029,2024-03-12,K21,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01107,H10001,2024-03-12,I25,Patient presents with headache for 1 days. History of hyperlipidemia. Vitals stable.
+V00798,H10156,2024-03-13,I10,Reports dizziness episodically; denies chest pain. On meds for CAD.
+V00596,H10388,2024-03-13,I10,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00278,H10067,2024-03-13,I25,Reports indigestion episodically; denies chest pain. On meds for CAD.
+V01486,H10369,2024-03-13,I25,Reports cough episodically; denies chest pain. On meds for GAD.
+V00079,H10304,2024-03-13,F41,Reports back pain episodically; denies chest pain. On meds for sciatica.
+V01160,H10339,2024-03-13,I25,Patient presents with insomnia for 2 days. History of GAD. Vitals stable.
+V00945,H10049,2024-03-13,I10,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00356,H10272,2024-03-13,K21,Patient presents with fatigue for 5 days. History of diabetes. Vitals stable.
+V00008,H10395,2024-03-13,I25,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00410,H10026,2024-03-14,M54,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00055,H10300,2024-03-14,I25,Reports indigestion episodically; denies chest pain. On meds for sciatica.
+V00995,H10189,2024-03-14,I10,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01401,H10065,2024-03-14,G47,Reports dizziness episodically; denies chest pain. On meds for GAD.
+V00972,H10110,2024-03-14,E11,Patient presents with insomnia for 9 days. History of sciatica. Vitals stable.
+V01254,H10194,2024-03-14,K21,Reports dizziness episodically; denies chest pain. On meds for CAD.
+V00277,H10331,2024-03-14,I25,Patient presents with fatigue for 1 days. History of GERD. Vitals stable.
+V00641,H10333,2024-03-15,E78,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01215,H10310,2024-03-15,M54,Reports insomnia episodically; denies chest pain. On meds for diabetes.
+V00159,H10012,2024-03-15,I25,Patient presents with dizziness for 9 days. History of CAD. Vitals stable.
+V01284,H10265,2024-03-15,F41,Reports insomnia episodically; denies chest pain. On meds for sciatica.
+V00912,H10085,2024-03-15,J45,Patient presents with insomnia for 7 days. History of asthma. Vitals stable.
+V01488,H10363,2024-03-15,I25,Patient presents with anxiety for 12 days. History of diabetes. Vitals stable.
+V00765,H10167,2024-03-15,G47,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00485,H10000,2024-03-15,E78,Patient presents with headache for 1 days. History of diabetes. Vitals stable.
+V00826,H10227,2024-03-15,J45,Reports fatigue episodically; denies chest pain. On meds for hyperlipidemia.
+V00034,H10216,2024-03-16,I25,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00249,H10347,2024-03-16,M54,Reports wheezing episodically; denies chest pain. On meds for hyperlipidemia.
+V00799,H10286,2024-03-16,I25,Patient presents with dizziness for 3 days. History of GERD. Vitals stable.
+V01126,H10221,2024-03-16,I10,Patient presents with insomnia for 3 days. History of diabetes. Vitals stable.
+V01124,H10180,2024-03-16,G47,Patient presents with cough for 10 days. History of diabetes. Vitals stable.
+V00953,H10334,2024-03-16,G47,Reports cough episodically; denies chest pain. On meds for OSA.
+V00711,H10074,2024-03-16,G47,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00251,H10298,2024-03-17,G47,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00846,H10274,2024-03-17,I25,Reports fatigue episodically; denies chest pain. On meds for OSA.
+V00778,H10097,2024-03-17,F41,Reports wheezing episodically; denies chest pain. On meds for OSA.
+V01362,H10173,2024-03-17,I10,Patient presents with wheezing for 1 days. History of sciatica. Vitals stable.
+V00723,H10348,2024-03-17,E78,Reports insomnia episodically; denies chest pain. On meds for hypertension.
+V01349,H10144,2024-03-17,G47,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00009,H10059,2024-03-18,I10,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00787,H10231,2024-03-18,J45,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00131,H10355,2024-03-18,G47,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00601,H10246,2024-03-18,E78,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01493,H10094,2024-03-18,E11,Patient presents with dizziness for 6 days. History of CAD. Vitals stable.
+V00852,H10353,2024-03-18,I10,Patient presents with cough for 2 days. History of diabetes. Vitals stable.
+V01273,H10371,2024-03-18,F41,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01307,H10130,2024-03-18,E78,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00408,H10361,2024-03-18,E11,Patient presents with insomnia for 8 days. History of asthma. Vitals stable.
+V00265,H10148,2024-03-19,K21,Patient presents with back pain for 7 days. History of GERD. Vitals stable.
+V01235,H10293,2024-03-19,I25,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00552,H10185,2024-03-19,F41,Reports dizziness episodically; denies chest pain. On meds for hyperlipidemia.
+V00315,H10193,2024-03-20,I25,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00051,H10207,2024-03-20,I10,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00537,H10269,2024-03-20,I10,Reports fatigue episodically; denies chest pain. On meds for GERD.
+V00420,H10359,2024-03-20,M54,Patient presents with wheezing for 8 days. History of CAD. Vitals stable.
+V01400,H10085,2024-03-20,M54,Reports wheezing episodically; denies chest pain. On meds for GERD.
+V00691,H10134,2024-03-20,F41,Reports anxiety episodically; denies chest pain. On meds for GAD.
+V00396,H10273,2024-03-20,K21,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01212,H10346,2024-03-21,I10,Patient presents with fatigue for 7 days. History of hypertension. Vitals stable.
+V00766,H10100,2024-03-21,E78,Reports indigestion episodically; denies chest pain. On meds for hyperlipidemia.
+V00946,H10055,2024-03-21,K21,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01208,H10368,2024-03-21,K21,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01116,H10379,2024-03-21,E78,Reports back pain episodically; denies chest pain. On meds for sciatica.
+V00487,H10347,2024-03-22,I25,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01416,H10030,2024-03-22,I25,Reports dizziness episodically; denies chest pain. On meds for GAD.
+V01036,H10062,2024-03-22,F41,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00499,H10109,2024-03-22,I10,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01414,H10140,2024-03-22,M54,Patient presents with anxiety for 10 days. History of CAD. Vitals stable.
+V01106,H10079,2024-03-22,E11,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00401,H10152,2024-03-22,F41,Reports wheezing episodically; denies chest pain. On meds for GERD.
+V01423,H10182,2024-03-22,I10,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01091,H10282,2024-03-22,F41,Patient presents with headache for 7 days. History of hyperlipidemia. Vitals stable.
+V00187,H10035,2024-03-23,E11,Patient presents with wheezing for 12 days. History of diabetes. Vitals stable.
+V01241,H10217,2024-03-23,I25,Reports insomnia episodically; denies chest pain. On meds for asthma.
+V00274,H10006,2024-03-23,E78,Reports insomnia episodically; denies chest pain. On meds for GAD.
+V00451,H10137,2024-03-23,K21,Patient presents with dizziness for 4 days. History of sciatica. Vitals stable.
+V00878,H10249,2024-03-23,I10,Reports indigestion episodically; denies chest pain. On meds for hyperlipidemia.
+V01304,H10031,2024-03-23,I10,Patient presents with back pain for 2 days. History of diabetes. Vitals stable.
+V01147,H10114,2024-03-23,M54,Patient presents with cough for 11 days. History of sciatica. Vitals stable.
+V00478,H10013,2024-03-23,E11,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00688,H10088,2024-03-24,J45,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00204,H10272,2024-03-24,G47,Patient presents with wheezing for 6 days. History of OSA. Vitals stable.
+V01039,H10163,2024-03-24,F41,Reports dizziness episodically; denies chest pain. On meds for GAD.
+V00753,H10062,2024-03-24,G47,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00062,H10353,2024-03-24,E78,Reports insomnia episodically; denies chest pain. On meds for OSA.
+V00947,H10139,2024-03-24,K21,Patient presents with indigestion for 9 days. History of hyperlipidemia. Vitals stable.
+V00287,H10387,2024-03-24,M54,Reports insomnia episodically; denies chest pain. On meds for diabetes.
+V01471,H10095,2024-03-24,E11,Reports insomnia episodically; denies chest pain. On meds for sciatica.
+V00445,H10377,2024-03-25,E78,Reports insomnia episodically; denies chest pain. On meds for GAD.
+V00872,H10335,2024-03-25,F41,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01238,H10167,2024-03-25,M54,Reports back pain episodically; denies chest pain. On meds for hyperlipidemia.
+V00411,H10153,2024-03-25,J45,Patient presents with cough for 6 days. History of hypertension. Vitals stable.
+V00669,H10104,2024-03-25,F41,Reports dizziness episodically; denies chest pain. On meds for CAD.
+V00432,H10128,2024-03-25,K21,Patient presents with indigestion for 4 days. History of diabetes. Vitals stable.
+V00984,H10263,2024-03-25,I25,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01278,H10221,2024-03-25,G47,Reports headache episodically; denies chest pain. On meds for asthma.
+V00855,H10265,2024-03-25,G47,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00592,H10364,2024-03-25,G47,Reports fatigue episodically; denies chest pain. On meds for sciatica.
+V00276,H10111,2024-03-25,I25,Reports cough episodically; denies chest pain. On meds for OSA.
+V00199,H10258,2024-03-25,I25,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00238,H10298,2024-03-25,E78,Reports cough episodically; denies chest pain. On meds for GERD.
+V00949,H10320,2024-03-25,K21,Reports insomnia episodically; denies chest pain. On meds for GAD.
+V00853,H10082,2024-03-26,E78,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00780,H10331,2024-03-26,I10,Reports back pain episodically; denies chest pain. On meds for hypertension.
+V00502,H10007,2024-03-26,K21,Reports dizziness episodically; denies chest pain. On meds for hypertension.
+V01009,H10071,2024-03-26,E11,Patient presents with insomnia for 12 days. History of sciatica. Vitals stable.
+V00933,H10017,2024-03-26,E11,Patient presents with headache for 6 days. History of CAD. Vitals stable.
+V01074,H10362,2024-03-26,G47,Reports fatigue episodically; denies chest pain. On meds for OSA.
+V00820,H10296,2024-03-26,M54,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00526,H10143,2024-03-26,K21,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00137,H10239,2024-03-26,E78,Patient presents with indigestion for 8 days. History of diabetes. Vitals stable.
+V01153,H10234,2024-03-26,G47,Reports insomnia episodically; denies chest pain. On meds for diabetes.
+V00092,H10142,2024-03-26,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00741,H10102,2024-03-26,J45,Patient presents with cough for 6 days. History of sciatica. Vitals stable.
+V01456,H10266,2024-03-26,K21,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01413,H10186,2024-03-26,F41,Reports headache episodically; denies chest pain. On meds for OSA.
+V00117,H10001,2024-03-27,E11,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01382,H10265,2024-03-27,K21,Patient presents with cough for 9 days. History of sciatica. Vitals stable.
+V00900,H10316,2024-03-28,G47,Reports indigestion episodically; denies chest pain. On meds for asthma.
+V00084,H10327,2024-03-28,K21,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00368,H10128,2024-03-28,E11,Patient presents with wheezing for 9 days. History of OSA. Vitals stable.
+V01440,H10043,2024-03-28,I25,Patient presents with back pain for 2 days. History of GAD. Vitals stable.
+V01322,H10193,2024-03-28,F41,Reports fatigue episodically; denies chest pain. On meds for GAD.
+V00789,H10114,2024-03-28,E78,Reports wheezing episodically; denies chest pain. On meds for GERD.
+V01075,H10378,2024-03-28,G47,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00429,H10249,2024-03-29,I25,Patient presents with cough for 1 days. History of hypertension. Vitals stable.
+V00879,H10065,2024-03-29,K21,Reports back pain episodically; denies chest pain. On meds for OSA.
+V00898,H10194,2024-03-29,I10,Reports indigestion episodically; denies chest pain. On meds for hypertension.
+V01098,H10018,2024-03-29,E78,Patient presents with fatigue for 3 days. History of sciatica. Vitals stable.
+V00674,H10171,2024-03-29,K21,Patient presents with indigestion for 2 days. History of GAD. Vitals stable.
+V00982,H10005,2024-03-29,J45,Reports back pain episodically; denies chest pain. On meds for CAD.
+V00200,H10354,2024-03-29,J45,Reports back pain episodically; denies chest pain. On meds for sciatica.
+V00736,H10215,2024-03-29,F41,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00950,H10040,2024-03-29,F41,Reports fatigue episodically; denies chest pain. On meds for GAD.
+V00449,H10108,2024-03-30,F41,Patient presents with insomnia for 2 days. History of sciatica. Vitals stable.
+V00032,H10393,2024-03-30,I25,Patient presents with indigestion for 9 days. History of hyperlipidemia. Vitals stable.
+V00207,H10369,2024-03-30,I10,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00925,H10216,2024-03-30,I25,Reports insomnia episodically; denies chest pain. On meds for GAD.
+V01448,H10160,2024-03-30,I10,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00310,H10083,2024-03-30,K21,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01010,H10257,2024-03-30,E11,Reports cough episodically; denies chest pain. On meds for OSA.
+V01219,H10398,2024-03-31,I10,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01146,H10269,2024-03-31,K21,Patient presents with cough for 5 days. History of diabetes. Vitals stable.
+V00981,H10101,2024-03-31,F41,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01489,H10236,2024-03-31,M54,Patient presents with wheezing for 9 days. History of GAD. Vitals stable.
+V00405,H10274,2024-03-31,F41,Reports anxiety episodically; denies chest pain. On meds for diabetes.
+V00918,H10206,2024-04-01,I10,Reports insomnia episodically; denies chest pain. On meds for hypertension.
+V01268,H10086,2024-04-01,I25,Reports fatigue episodically; denies chest pain. On meds for GAD.
+V00298,H10216,2024-04-01,J45,Patient presents with insomnia for 13 days. History of asthma. Vitals stable.
+V00988,H10266,2024-04-01,G47,Reports indigestion episodically; denies chest pain. On meds for hypertension.
+V00875,H10341,2024-04-02,E11,Patient presents with wheezing for 11 days. History of sciatica. Vitals stable.
+V00650,H10195,2024-04-02,E78,Patient presents with indigestion for 6 days. History of GERD. Vitals stable.
+V00263,H10372,2024-04-02,J45,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00979,H10099,2024-04-02,M54,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01200,H10042,2024-04-02,F41,Reports indigestion episodically; denies chest pain. On meds for GAD.
+V00056,H10388,2024-04-02,I25,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00539,H10145,2024-04-02,G47,Reports anxiety episodically; denies chest pain. On meds for hypertension.
+V01243,H10314,2024-04-02,E11,Reports indigestion episodically; denies chest pain. On meds for GERD.
+V00564,H10062,2024-04-02,E78,Reports indigestion episodically; denies chest pain. On meds for diabetes.
+V00110,H10022,2024-04-02,E11,Patient presents with back pain for 12 days. History of GAD. Vitals stable.
+V00243,H10193,2024-04-03,I10,Patient presents with fatigue for 13 days. History of hyperlipidemia. Vitals stable.
+V00546,H10355,2024-04-03,J45,Patient presents with headache for 12 days. History of GAD. Vitals stable.
+V00511,H10384,2024-04-03,I25,Reports wheezing episodically; denies chest pain. On meds for sciatica.
+V01085,H10232,2024-04-03,K21,Reports wheezing episodically; denies chest pain. On meds for diabetes.
+V00583,H10266,2024-04-03,G47,Patient presents with insomnia for 9 days. History of diabetes. Vitals stable.
+V01427,H10276,2024-04-03,K21,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01052,H10159,2024-04-03,J45,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00489,H10062,2024-04-03,I25,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00114,H10165,2024-04-04,K21,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01370,H10044,2024-04-04,F41,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00667,H10048,2024-04-04,E78,Patient presents with indigestion for 5 days. History of hypertension. Vitals stable.
+V00802,H10166,2024-04-04,G47,Reports anxiety episodically; denies chest pain. On meds for GAD.
+V00124,H10315,2024-04-05,G47,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00829,H10077,2024-04-05,I25,Patient presents with fatigue for 2 days. History of diabetes. Vitals stable.
+V00976,H10392,2024-04-05,M54,Reports anxiety episodically; denies chest pain. On meds for GAD.
+V01281,H10302,2024-04-05,K21,Patient presents with insomnia for 4 days. History of OSA. Vitals stable.
+V00689,H10224,2024-04-05,M54,Patient presents with dizziness for 9 days. History of hyperlipidemia. Vitals stable.
+V00288,H10147,2024-04-05,K21,Patient presents with headache for 3 days. History of CAD. Vitals stable.
+V00572,H10283,2024-04-05,M54,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01337,H10245,2024-04-06,K21,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00324,H10295,2024-04-06,G47,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00048,H10001,2024-04-06,E11,Patient presents with insomnia for 7 days. History of OSA. Vitals stable.
+V00617,H10125,2024-04-06,E78,Reports dizziness episodically; denies chest pain. On meds for hyperlipidemia.
+V00107,H10254,2024-04-06,E11,Patient presents with fatigue for 7 days. History of GERD. Vitals stable.
+V01192,H10291,2024-04-06,E11,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00221,H10123,2024-04-06,I25,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00498,H10251,2024-04-06,M54,Patient presents with indigestion for 5 days. History of sciatica. Vitals stable.
+V01262,H10134,2024-04-07,M54,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00924,H10020,2024-04-08,K21,Reports anxiety episodically; denies chest pain. On meds for CAD.
+V00734,H10009,2024-04-08,I10,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00881,H10091,2024-04-08,E78,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00743,H10368,2024-04-08,E78,Patient presents with wheezing for 11 days. History of GERD. Vitals stable.
+V00659,H10229,2024-04-08,M54,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00599,H10197,2024-04-08,I10,Reports headache episodically; denies chest pain. On meds for hyperlipidemia.
+V00840,H10375,2024-04-08,E11,Reports anxiety episodically; denies chest pain. On meds for hypertension.
+V00304,H10113,2024-04-09,J45,Patient presents with back pain for 2 days. History of OSA. Vitals stable.
+V00506,H10278,2024-04-09,J45,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00903,H10296,2024-04-09,K21,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00170,H10021,2024-04-09,I25,Reports dizziness episodically; denies chest pain. On meds for hyperlipidemia.
+V00102,H10213,2024-04-09,G47,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00906,H10006,2024-04-09,J45,Patient presents with back pain for 12 days. History of sciatica. Vitals stable.
+V01059,H10385,2024-04-09,J45,Patient presents with anxiety for 6 days. History of hypertension. Vitals stable.
+V01245,H10223,2024-04-09,J45,Reports back pain episodically; denies chest pain. On meds for hyperlipidemia.
+V00216,H10352,2024-04-09,K21,Patient presents with back pain for 2 days. History of asthma. Vitals stable.
+V01295,H10326,2024-04-09,K21,Reports dizziness episodically; denies chest pain. On meds for GERD.
+V00373,H10120,2024-04-09,M54,Patient presents with headache for 8 days. History of OSA. Vitals stable.
+V01083,H10103,2024-04-09,J45,Reports cough episodically; denies chest pain. On meds for GAD.
+V00795,H10146,2024-04-10,E78,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01007,H10009,2024-04-10,J45,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01460,H10296,2024-04-10,M54,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00890,H10221,2024-04-10,E11,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00730,H10083,2024-04-10,J45,Patient presents with headache for 11 days. History of GAD. Vitals stable.
+V01467,H10221,2024-04-10,F41,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00647,H10038,2024-04-10,K21,Reports insomnia episodically; denies chest pain. On meds for hyperlipidemia.
+V00173,H10326,2024-04-10,E11,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00921,H10377,2024-04-10,M54,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01317,H10366,2024-04-10,E11,Reports indigestion episodically; denies chest pain. On meds for diabetes.
+V00241,H10296,2024-04-10,I25,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00441,H10156,2024-04-10,G47,Reports back pain episodically; denies chest pain. On meds for hyperlipidemia.
+V00191,H10146,2024-04-11,I10,Patient presents with indigestion for 1 days. History of diabetes. Vitals stable.
+V00119,H10262,2024-04-11,I10,Patient presents with anxiety for 8 days. History of OSA. Vitals stable.
+V00513,H10366,2024-04-11,J45,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00306,H10048,2024-04-11,M54,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00168,H10018,2024-04-11,E11,Reports fatigue episodically; denies chest pain. On meds for OSA.
+V00793,H10219,2024-04-11,F41,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01325,H10338,2024-04-11,J45,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01412,H10398,2024-04-11,I10,Reports indigestion episodically; denies chest pain. On meds for CAD.
+V00740,H10311,2024-04-11,I25,Patient presents with insomnia for 2 days. History of GERD. Vitals stable.
+V00374,H10022,2024-04-12,E78,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01313,H10335,2024-04-12,E11,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01266,H10116,2024-04-12,E78,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00052,H10152,2024-04-12,I25,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00954,H10152,2024-04-12,I10,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01112,H10019,2024-04-12,E11,Reports headache episodically; denies chest pain. On meds for diabetes.
+V01443,H10223,2024-04-12,G47,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00770,H10234,2024-04-12,F41,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00597,H10284,2024-04-13,E78,Reports back pain episodically; denies chest pain. On meds for GERD.
+V01092,H10166,2024-04-13,I10,Patient presents with back pain for 8 days. History of diabetes. Vitals stable.
+V00386,H10351,2024-04-13,I25,Reports dizziness episodically; denies chest pain. On meds for OSA.
+V01293,H10272,2024-04-14,I25,Reports cough episodically; denies chest pain. On meds for diabetes.
+V00283,H10207,2024-04-14,I25,Reports headache episodically; denies chest pain. On meds for hypertension.
+V00194,H10380,2024-04-14,M54,Patient presents with fatigue for 5 days. History of OSA. Vitals stable.
+V01223,H10242,2024-04-14,K21,Reports indigestion episodically; denies chest pain. On meds for GERD.
+V00394,H10270,2024-04-14,G47,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00417,H10149,2024-04-14,E11,Patient presents with insomnia for 8 days. History of hypertension. Vitals stable.
+V00018,H10018,2024-04-14,M54,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01407,H10007,2024-04-14,E11,Reports fatigue episodically; denies chest pain. On meds for diabetes.
+V00118,H10377,2024-04-14,J45,Patient presents with headache for 1 days. History of hyperlipidemia. Vitals stable.
+V00884,H10045,2024-04-14,F41,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00236,H10047,2024-04-15,M54,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00101,H10061,2024-04-15,F41,Patient presents with dizziness for 8 days. History of GAD. Vitals stable.
+V00493,H10201,2024-04-15,J45,Patient presents with back pain for 8 days. History of hypertension. Vitals stable.
+V00975,H10004,2024-04-15,K21,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00284,H10005,2024-04-15,K21,Patient presents with indigestion for 7 days. History of asthma. Vitals stable.
+V01316,H10307,2024-04-15,J45,Reports wheezing episodically; denies chest pain. On meds for GAD.
+V00289,H10226,2024-04-15,E78,Reports back pain episodically; denies chest pain. On meds for diabetes.
+V01128,H10143,2024-04-16,F41,Patient presents with back pain for 1 days. History of diabetes. Vitals stable.
+V00952,H10041,2024-04-16,E11,Patient presents with cough for 2 days. History of GERD. Vitals stable.
+V01459,H10297,2024-04-16,G47,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00162,H10354,2024-04-16,J45,Patient presents with back pain for 4 days. History of hypertension. Vitals stable.
+V00021,H10042,2024-04-16,I10,Patient presents with back pain for 9 days. History of asthma. Vitals stable.
+V00536,H10396,2024-04-16,G47,Reports insomnia episodically; denies chest pain. On meds for OSA.
+V00598,H10239,2024-04-16,M54,Reports anxiety episodically; denies chest pain. On meds for sciatica.
+V00788,H10248,2024-04-16,M54,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00473,H10344,2024-04-16,J45,Patient presents with wheezing for 7 days. History of diabetes. Vitals stable.
+V00255,H10001,2024-04-16,J45,Reports headache episodically; denies chest pain. On meds for sciatica.
+V00887,H10039,2024-04-16,M54,Patient presents with indigestion for 3 days. History of sciatica. Vitals stable.
+V01421,H10330,2024-04-16,G47,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00033,H10165,2024-04-16,K21,Reports cough episodically; denies chest pain. On meds for asthma.
+V00024,H10081,2024-04-17,K21,Reports fatigue episodically; denies chest pain. On meds for CAD.
+V01073,H10164,2024-04-17,J45,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00756,H10333,2024-04-17,I10,Patient presents with dizziness for 10 days. History of asthma. Vitals stable.
+V00518,H10247,2024-04-17,F41,Patient presents with wheezing for 4 days. History of diabetes. Vitals stable.
+V01351,H10112,2024-04-17,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01025,H10268,2024-04-18,J45,Reports headache episodically; denies chest pain. On meds for hyperlipidemia.
+V00468,H10370,2024-04-18,M54,Patient presents with anxiety for 6 days. History of diabetes. Vitals stable.
+V00268,H10189,2024-04-18,J45,Reports indigestion episodically; denies chest pain. On meds for GAD.
+V00655,H10048,2024-04-18,F41,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00732,H10200,2024-04-18,E78,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00296,H10245,2024-04-18,K21,Reports wheezing episodically; denies chest pain. On meds for diabetes.
+V00776,H10123,2024-04-19,I25,Patient presents with dizziness for 9 days. History of GERD. Vitals stable.
+V00435,H10313,2024-04-19,K21,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00375,H10374,2024-04-19,E78,Reports back pain episodically; denies chest pain. On meds for hyperlipidemia.
+V01287,H10133,2024-04-19,G47,Patient presents with cough for 8 days. History of CAD. Vitals stable.
+V01374,H10299,2024-04-19,I10,Patient presents with fatigue for 2 days. History of GAD. Vitals stable.
+V00664,H10085,2024-04-19,K21,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01182,H10358,2024-04-19,E11,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00755,H10178,2024-04-19,M54,Patient presents with headache for 11 days. History of sciatica. Vitals stable.
+V00005,H10301,2024-04-20,G47,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01394,H10109,2024-04-20,J45,Reports wheezing episodically; denies chest pain. On meds for GERD.
+V01379,H10264,2024-04-20,I10,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01329,H10218,2024-04-20,I25,Patient presents with insomnia for 11 days. History of hyperlipidemia. Vitals stable.
+V00873,H10259,2024-04-20,K21,Reports dizziness episodically; denies chest pain. On meds for GERD.
+V00134,H10203,2024-04-20,E11,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01205,H10340,2024-04-20,J45,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01420,H10244,2024-04-20,F41,Patient presents with headache for 13 days. History of GERD. Vitals stable.
+V01259,H10385,2024-04-20,M54,Patient presents with back pain for 5 days. History of asthma. Vitals stable.
+V01021,H10002,2024-04-20,E78,Patient presents with cough for 9 days. History of GERD. Vitals stable.
+V00566,H10162,2024-04-21,J45,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00469,H10007,2024-04-21,F41,Reports wheezing episodically; denies chest pain. On meds for diabetes.
+V00507,H10028,2024-04-21,M54,Patient presents with headache for 3 days. History of diabetes. Vitals stable.
+V00115,H10189,2024-04-21,I10,Reports fatigue episodically; denies chest pain. On meds for asthma.
+V01171,H10340,2024-04-21,E11,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00419,H10366,2024-04-21,M54,Patient presents with dizziness for 13 days. History of OSA. Vitals stable.
+V00267,H10156,2024-04-21,M54,Reports cough episodically; denies chest pain. On meds for hyperlipidemia.
+V00381,H10313,2024-04-21,J45,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00923,H10360,2024-04-21,M54,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00565,H10044,2024-04-21,E11,Reports indigestion episodically; denies chest pain. On meds for diabetes.
+V00369,H10243,2024-04-21,I25,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00345,H10312,2024-04-22,G47,Reports fatigue episodically; denies chest pain. On meds for CAD.
+V00836,H10058,2024-04-22,E11,Patient presents with wheezing for 6 days. History of CAD. Vitals stable.
+V01392,H10240,2024-04-22,J45,Reports wheezing episodically; denies chest pain. On meds for GAD.
+V00475,H10311,2024-04-23,F41,Patient presents with wheezing for 13 days. History of diabetes. Vitals stable.
+V00891,H10287,2024-04-23,I25,Patient presents with insomnia for 2 days. History of diabetes. Vitals stable.
+V00148,H10171,2024-04-23,I25,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01120,H10308,2024-04-23,I10,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01461,H10333,2024-04-23,M54,Patient presents with dizziness for 8 days. History of sciatica. Vitals stable.
+V00512,H10120,2024-04-23,M54,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01156,H10244,2024-04-23,I10,Reports dizziness episodically; denies chest pain. On meds for GAD.
+V00022,H10204,2024-04-23,F41,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01469,H10247,2024-04-24,I10,Patient presents with insomnia for 9 days. History of GAD. Vitals stable.
+V01395,H10116,2024-04-24,K21,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00858,H10326,2024-04-24,I10,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00224,H10065,2024-04-24,J45,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00587,H10353,2024-04-24,K21,Patient presents with fatigue for 3 days. History of sciatica. Vitals stable.
+V01267,H10356,2024-04-24,J45,Reports insomnia episodically; denies chest pain. On meds for sciatica.
+V01183,H10376,2024-04-24,E78,Patient presents with fatigue for 11 days. History of GAD. Vitals stable.
+V00986,H10009,2024-04-25,E11,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00731,H10250,2024-04-25,M54,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00816,H10323,2024-04-25,E78,Reports insomnia episodically; denies chest pain. On meds for asthma.
+V00956,H10351,2024-04-25,E11,Patient presents with dizziness for 13 days. History of hyperlipidemia. Vitals stable.
+V00827,H10224,2024-04-25,E11,Patient presents with insomnia for 8 days. History of CAD. Vitals stable.
+V01432,H10267,2024-04-25,G47,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00302,H10010,2024-04-25,M54,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00584,H10169,2024-04-25,F41,Reports indigestion episodically; denies chest pain. On meds for GERD.
+V00327,H10190,2024-04-26,J45,Patient presents with insomnia for 7 days. History of CAD. Vitals stable.
+V00803,H10302,2024-04-26,E78,Patient presents with headache for 3 days. History of CAD. Vitals stable.
+V00503,H10196,2024-04-26,M54,Reports fatigue episodically; denies chest pain. On meds for diabetes.
+V00490,H10389,2024-04-26,F41,Reports wheezing episodically; denies chest pain. On meds for OSA.
+V00307,H10296,2024-04-26,G47,Reports cough episodically; denies chest pain. On meds for GAD.
+V00026,H10179,2024-04-26,E11,Patient presents with back pain for 11 days. History of hyperlipidemia. Vitals stable.
+V00936,H10313,2024-04-27,F41,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00339,H10373,2024-04-27,K21,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00163,H10103,2024-04-27,I10,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00070,H10170,2024-04-27,I10,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00253,H10395,2024-04-27,E78,Reports dizziness episodically; denies chest pain. On meds for hypertension.
+V00246,H10184,2024-04-27,I25,Patient presents with insomnia for 4 days. History of OSA. Vitals stable.
+V00607,H10383,2024-04-27,K21,Patient presents with fatigue for 9 days. History of CAD. Vitals stable.
+V00285,H10028,2024-04-27,I25,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00437,H10121,2024-04-27,I25,Patient presents with back pain for 9 days. History of sciatica. Vitals stable.
+V00500,H10392,2024-04-27,I10,Reports fatigue episodically; denies chest pain. On meds for sciatica.
+V01130,H10393,2024-04-27,K21,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01288,H10106,2024-04-28,F41,Reports wheezing episodically; denies chest pain. On meds for hyperlipidemia.
+V00151,H10389,2024-04-28,I10,Reports insomnia episodically; denies chest pain. On meds for sciatica.
+V00557,H10138,2024-04-28,E78,Reports indigestion episodically; denies chest pain. On meds for diabetes.
+V00495,H10329,2024-04-28,I10,Patient presents with dizziness for 1 days. History of OSA. Vitals stable.
+V00318,H10363,2024-04-28,F41,Patient presents with anxiety for 10 days. History of OSA. Vitals stable.
+V00824,H10137,2024-04-28,J45,Reports cough episodically; denies chest pain. On meds for GAD.
+V01296,H10137,2024-04-28,E11,Reports back pain episodically; denies chest pain. On meds for sciatica.
+V00120,H10123,2024-04-28,I25,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01248,H10017,2024-04-28,I10,Reports headache episodically; denies chest pain. On meds for CAD.
+V00404,H10337,2024-04-28,J45,Patient presents with headache for 8 days. History of asthma. Vitals stable.
+V00971,H10253,2024-04-28,J45,Patient presents with anxiety for 7 days. History of GERD. Vitals stable.
+V01211,H10375,2024-04-29,F41,Patient presents with back pain for 3 days. History of GAD. Vitals stable.
+V01003,H10097,2024-04-29,G47,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00257,H10237,2024-04-29,G47,Patient presents with anxiety for 12 days. History of asthma. Vitals stable.
+V00279,H10176,2024-04-29,E78,Patient presents with headache for 3 days. History of diabetes. Vitals stable.
+V01131,H10021,2024-04-30,F41,Reports dizziness episodically; denies chest pain. On meds for asthma.
+V01372,H10028,2024-04-30,I25,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01498,H10207,2024-04-30,I10,Reports indigestion episodically; denies chest pain. On meds for hypertension.
+V00025,H10282,2024-04-30,I10,Patient presents with dizziness for 13 days. History of CAD. Vitals stable.
+V00726,H10046,2024-04-30,G47,Patient presents with wheezing for 5 days. History of asthma. Vitals stable.
+V00090,H10387,2024-04-30,I25,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00751,H10237,2024-04-30,I25,Reports anxiety episodically; denies chest pain. On meds for hyperlipidemia.
+V00874,H10311,2024-04-30,E78,Reports wheezing episodically; denies chest pain. On meds for asthma.
+V00340,H10123,2024-05-01,M54,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00959,H10002,2024-05-01,M54,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00538,H10167,2024-05-01,E11,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01422,H10117,2024-05-01,E78,Reports insomnia episodically; denies chest pain. On meds for GAD.
+V00366,H10356,2024-05-01,F41,Reports fatigue episodically; denies chest pain. On meds for OSA.
+V00029,H10233,2024-05-01,M54,Reports wheezing episodically; denies chest pain. On meds for CAD.
+V00109,H10021,2024-05-01,K21,Patient presents with anxiety for 8 days. History of hypertension. Vitals stable.
+V01158,H10374,2024-05-01,M54,Reports back pain episodically; denies chest pain. On meds for hyperlipidemia.
+V00656,H10121,2024-05-01,J45,Patient presents with cough for 11 days. History of asthma. Vitals stable.
+V01491,H10241,2024-05-01,I25,Patient presents with back pain for 3 days. History of asthma. Vitals stable.
+V00697,H10188,2024-05-01,I25,Patient presents with headache for 3 days. History of diabetes. Vitals stable.
+V01272,H10358,2024-05-02,K21,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00095,H10368,2024-05-02,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00234,H10052,2024-05-02,E78,Reports headache episodically; denies chest pain. On meds for GAD.
+V00472,H10084,2024-05-02,G47,Patient presents with insomnia for 4 days. History of hypertension. Vitals stable.
+V00219,H10232,2024-05-02,K21,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00400,H10366,2024-05-02,E11,Reports cough episodically; denies chest pain. On meds for diabetes.
+V00593,H10345,2024-05-02,K21,Patient presents with headache for 12 days. History of CAD. Vitals stable.
+V00615,H10281,2024-05-02,I25,Reports indigestion episodically; denies chest pain. On meds for hypertension.
+V00439,H10191,2024-05-02,I10,Patient presents with headache for 6 days. History of sciatica. Vitals stable.
+V01246,H10286,2024-05-02,E11,Patient presents with anxiety for 13 days. History of sciatica. Vitals stable.
+V00016,H10076,2024-05-02,M54,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00931,H10272,2024-05-03,K21,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00313,H10312,2024-05-03,E11,Reports wheezing episodically; denies chest pain. On meds for diabetes.
+V00549,H10122,2024-05-03,I25,Patient presents with anxiety for 3 days. History of OSA. Vitals stable.
+V00698,H10316,2024-05-03,J45,Patient presents with anxiety for 5 days. History of diabetes. Vitals stable.
+V00020,H10014,2024-05-03,M54,Patient presents with cough for 10 days. History of GAD. Vitals stable.
+V00573,H10152,2024-05-03,G47,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00796,H10198,2024-05-03,M54,Reports indigestion episodically; denies chest pain. On meds for hypertension.
+V01165,H10381,2024-05-03,J45,Patient presents with dizziness for 5 days. History of diabetes. Vitals stable.
+V01214,H10086,2024-05-03,I10,Patient presents with cough for 4 days. History of OSA. Vitals stable.
+V01342,H10311,2024-05-03,J45,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00178,H10334,2024-05-03,F41,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00209,H10234,2024-05-04,E11,Patient presents with dizziness for 9 days. History of OSA. Vitals stable.
+V00758,H10094,2024-05-04,K21,Reports anxiety episodically; denies chest pain. On meds for asthma.
+V01058,H10111,2024-05-04,M54,Reports headache episodically; denies chest pain. On meds for CAD.
+V00805,H10318,2024-05-04,E11,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00915,H10075,2024-05-04,I10,Patient presents with insomnia for 8 days. History of hypertension. Vitals stable.
+V00854,H10314,2024-05-04,F41,Reports fatigue episodically; denies chest pain. On meds for CAD.
+V00460,H10124,2024-05-05,M54,Patient presents with back pain for 10 days. History of OSA. Vitals stable.
+V00078,H10303,2024-05-05,G47,Reports indigestion episodically; denies chest pain. On meds for diabetes.
+V01428,H10144,2024-05-05,G47,Patient presents with anxiety for 6 days. History of sciatica. Vitals stable.
+V01207,H10204,2024-05-06,J45,Reports wheezing episodically; denies chest pain. On meds for hyperlipidemia.
+V01261,H10121,2024-05-06,M54,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01177,H10278,2024-05-06,G47,Patient presents with insomnia for 6 days. History of hyperlipidemia. Vitals stable.
+V00869,H10103,2024-05-07,I10,Patient presents with indigestion for 2 days. History of asthma. Vitals stable.
+V01230,H10018,2024-05-07,I25,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01291,H10110,2024-05-07,M54,Reports headache episodically; denies chest pain. On meds for hyperlipidemia.
+V00649,H10024,2024-05-07,J45,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00716,H10276,2024-05-07,F41,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00505,H10379,2024-05-07,J45,Patient presents with anxiety for 13 days. History of GAD. Vitals stable.
+V01005,H10355,2024-05-07,J45,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00004,H10252,2024-05-08,M54,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00230,H10357,2024-05-08,F41,Patient presents with back pain for 1 days. History of GAD. Vitals stable.
+V01174,H10352,2024-05-08,I25,Reports indigestion episodically; denies chest pain. On meds for diabetes.
+V01181,H10262,2024-05-08,M54,Patient presents with headache for 9 days. History of sciatica. Vitals stable.
+V01465,H10048,2024-05-08,K21,Reports cough episodically; denies chest pain. On meds for GERD.
+V00311,H10182,2024-05-09,M54,Patient presents with indigestion for 7 days. History of asthma. Vitals stable.
+V00245,H10378,2024-05-09,K21,Patient presents with cough for 5 days. History of sciatica. Vitals stable.
+V00295,H10365,2024-05-09,E78,Reports cough episodically; denies chest pain. On meds for OSA.
+V00777,H10012,2024-05-09,K21,Reports wheezing episodically; denies chest pain. On meds for asthma.
+V01050,H10182,2024-05-09,K21,Reports insomnia episodically; denies chest pain. On meds for CAD.
+V00961,H10245,2024-05-09,E11,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01053,H10012,2024-05-09,E11,Patient presents with headache for 10 days. History of sciatica. Vitals stable.
+V01331,H10095,2024-05-09,K21,Patient presents with anxiety for 7 days. History of OSA. Vitals stable.
+V01042,H10257,2024-05-09,G47,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00331,H10366,2024-05-09,E11,Patient presents with anxiety for 11 days. History of GAD. Vitals stable.
+V00237,H10391,2024-05-09,K21,Patient presents with anxiety for 1 days. History of GAD. Vitals stable.
+V01276,H10315,2024-05-09,E78,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00280,H10006,2024-05-09,M54,Reports wheezing episodically; denies chest pain. On meds for GAD.
+V00346,H10280,2024-05-10,F41,Reports anxiety episodically; denies chest pain. On meds for CAD.
+V01397,H10008,2024-05-10,I25,Reports anxiety episodically; denies chest pain. On meds for GERD.
+V01094,H10152,2024-05-10,J45,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01387,H10039,2024-05-10,E11,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00367,H10172,2024-05-10,G47,Reports indigestion episodically; denies chest pain. On meds for OSA.
+V00139,H10377,2024-05-10,M54,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00325,H10138,2024-05-10,F41,Reports insomnia episodically; denies chest pain. On meds for diabetes.
+V00149,H10365,2024-05-11,E11,Patient presents with headache for 13 days. History of hypertension. Vitals stable.
+V00195,H10172,2024-05-11,E78,Patient presents with indigestion for 2 days. History of hypertension. Vitals stable.
+V00047,H10105,2024-05-11,I25,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00895,H10226,2024-05-11,F41,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01011,H10367,2024-05-11,E78,Patient presents with headache for 3 days. History of GAD. Vitals stable.
+V00013,H10380,2024-05-11,G47,Patient presents with headache for 8 days. History of GERD. Vitals stable.
+V00719,H10345,2024-05-12,M54,Patient presents with fatigue for 10 days. History of GERD. Vitals stable.
+V00044,H10233,2024-05-12,F41,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01068,H10116,2024-05-12,I25,Patient presents with headache for 10 days. History of GAD. Vitals stable.
+V00399,H10162,2024-05-12,F41,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01324,H10190,2024-05-12,F41,Patient presents with indigestion for 13 days. History of asthma. Vitals stable.
+V00834,H10023,2024-05-12,K21,Patient presents with headache for 9 days. History of GAD. Vitals stable.
+V00146,H10365,2024-05-12,I25,Reports anxiety episodically; denies chest pain. On meds for asthma.
+V00133,H10354,2024-05-12,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01453,H10112,2024-05-12,E78,Reports headache episodically; denies chest pain. On meds for CAD.
+V00606,H10277,2024-05-12,J45,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01269,H10286,2024-05-12,E11,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00896,H10029,2024-05-13,E11,Patient presents with anxiety for 1 days. History of diabetes. Vitals stable.
+V01100,H10274,2024-05-13,E78,Patient presents with headache for 10 days. History of sciatica. Vitals stable.
+V00532,H10055,2024-05-13,M54,Reports insomnia episodically; denies chest pain. On meds for hypertension.
+V00319,H10110,2024-05-13,E11,Patient presents with dizziness for 6 days. History of CAD. Vitals stable.
+V01305,H10344,2024-05-13,M54,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00684,H10092,2024-05-13,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01240,H10327,2024-05-13,I10,Patient presents with insomnia for 8 days. History of GAD. Vitals stable.
+V01055,H10262,2024-05-13,G47,Reports fatigue episodically; denies chest pain. On meds for CAD.
+V01057,H10388,2024-05-13,K21,Patient presents with back pain for 2 days. History of OSA. Vitals stable.
+V00561,H10008,2024-05-13,M54,Reports dizziness episodically; denies chest pain. On meds for CAD.
+V01396,H10043,2024-05-13,G47,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01473,H10241,2024-05-13,F41,Patient presents with fatigue for 2 days. History of GAD. Vitals stable.
+V00063,H10185,2024-05-14,M54,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00636,H10220,2024-05-14,K21,Patient presents with headache for 8 days. History of GERD. Vitals stable.
+V01204,H10330,2024-05-14,E11,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01476,H10368,2024-05-14,E11,Patient presents with fatigue for 7 days. History of GAD. Vitals stable.
+V00273,H10360,2024-05-14,K21,Reports dizziness episodically; denies chest pain. On meds for hyperlipidemia.
+V00180,H10313,2024-05-14,E78,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00693,H10256,2024-05-14,J45,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00645,H10075,2024-05-14,J45,Reports cough episodically; denies chest pain. On meds for asthma.
+V01341,H10387,2024-05-15,K21,Patient presents with cough for 12 days. History of sciatica. Vitals stable.
+V01070,H10190,2024-05-15,E11,Reports back pain episodically; denies chest pain. On meds for GERD.
+V00578,H10096,2024-05-15,E78,Patient presents with indigestion for 6 days. History of hypertension. Vitals stable.
+V01335,H10369,2024-05-15,J45,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00600,H10334,2024-05-15,G47,Reports headache episodically; denies chest pain. On meds for sciatica.
+V01480,H10342,2024-05-15,I25,Reports cough episodically; denies chest pain. On meds for GAD.
+V00351,H10029,2024-05-15,F41,Patient presents with cough for 10 days. History of diabetes. Vitals stable.
+V00630,H10327,2024-05-16,J45,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01399,H10379,2024-05-17,G47,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00242,H10246,2024-05-17,I25,Reports cough episodically; denies chest pain. On meds for asthma.
+V01244,H10048,2024-05-17,E11,Patient presents with indigestion for 2 days. History of hyperlipidemia. Vitals stable.
+V00823,H10026,2024-05-17,I25,Reports wheezing episodically; denies chest pain. On meds for GAD.
+V00043,H10151,2024-05-17,F41,Reports dizziness episodically; denies chest pain. On meds for CAD.
+V00576,H10357,2024-05-17,G47,Patient presents with headache for 12 days. History of hyperlipidemia. Vitals stable.
+V00553,H10233,2024-05-17,M54,Patient presents with wheezing for 1 days. History of hyperlipidemia. Vitals stable.
+V00670,H10382,2024-05-17,J45,Patient presents with dizziness for 4 days. History of diabetes. Vitals stable.
+V01118,H10004,2024-05-18,M54,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00193,H10265,2024-05-18,F41,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00427,H10169,2024-05-18,G47,Patient presents with back pain for 11 days. History of GERD. Vitals stable.
+V00819,H10256,2024-05-18,I25,Patient presents with back pain for 9 days. History of asthma. Vitals stable.
+V00308,H10055,2024-05-18,I10,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00612,H10114,2024-05-18,I10,Reports wheezing episodically; denies chest pain. On meds for asthma.
+V00132,H10200,2024-05-18,J45,Reports fatigue episodically; denies chest pain. On meds for GERD.
+V00190,H10371,2024-05-18,I25,Patient presents with headache for 8 days. History of hypertension. Vitals stable.
+V00456,H10267,2024-05-18,J45,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00533,H10246,2024-05-18,E11,Patient presents with cough for 3 days. History of CAD. Vitals stable.
+V00099,H10258,2024-05-18,I25,Reports wheezing episodically; denies chest pain. On meds for hypertension.
+V00091,H10132,2024-05-18,K21,Reports back pain episodically; denies chest pain. On meds for CAD.
+V00333,H10373,2024-05-19,I10,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00899,H10052,2024-05-19,M54,Reports fatigue episodically; denies chest pain. On meds for asthma.
+V00857,H10080,2024-05-19,G47,Patient presents with indigestion for 2 days. History of GAD. Vitals stable.
+V00735,H10159,2024-05-19,E78,Patient presents with back pain for 13 days. History of sciatica. Vitals stable.
+V00260,H10199,2024-05-19,J45,Reports back pain episodically; denies chest pain. On meds for sciatica.
+V01347,H10171,2024-05-19,K21,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01090,H10042,2024-05-19,E11,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00791,H10254,2024-05-19,J45,Reports anxiety episodically; denies chest pain. On meds for GERD.
+V00694,H10348,2024-05-19,M54,Patient presents with dizziness for 4 days. History of hypertension. Vitals stable.
+V00560,H10033,2024-05-19,E11,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00916,H10146,2024-05-20,F41,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01078,H10081,2024-05-20,J45,Reports cough episodically; denies chest pain. On meds for hypertension.
+V01458,H10162,2024-05-20,I10,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01405,H10366,2024-05-20,E78,Reports back pain episodically; denies chest pain. On meds for GAD.
+V00271,H10100,2024-05-20,I10,Reports anxiety episodically; denies chest pain. On meds for sciatica.
+V00228,H10119,2024-05-20,K21,Patient presents with dizziness for 9 days. History of diabetes. Vitals stable.
+V00521,H10238,2024-05-20,I10,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00589,H10007,2024-05-20,I10,Patient presents with dizziness for 3 days. History of diabetes. Vitals stable.
+V00668,H10357,2024-05-21,K21,Patient presents with indigestion for 8 days. History of asthma. Vitals stable.
+V01076,H10285,2024-05-21,M54,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00706,H10356,2024-05-21,I10,Patient presents with back pain for 1 days. History of hypertension. Vitals stable.
+V00450,H10149,2024-05-21,J45,Patient presents with headache for 3 days. History of hypertension. Vitals stable.
+V00181,H10290,2024-05-21,E11,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00623,H10114,2024-05-21,F41,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01180,H10106,2024-05-21,I25,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00347,H10131,2024-05-21,I25,Reports indigestion episodically; denies chest pain. On meds for GAD.
+V00628,H10290,2024-05-21,E78,Patient presents with back pain for 7 days. History of sciatica. Vitals stable.
+V01201,H10331,2024-05-21,E78,Patient presents with fatigue for 2 days. History of hyperlipidemia. Vitals stable.
+V01037,H10188,2024-05-22,G47,Reports indigestion episodically; denies chest pain. On meds for OSA.
+V00559,H10012,2024-05-22,J45,Patient presents with indigestion for 5 days. History of diabetes. Vitals stable.
+V01043,H10333,2024-05-22,E78,Patient presents with indigestion for 13 days. History of CAD. Vitals stable.
+V00491,H10071,2024-05-22,J45,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00406,H10076,2024-05-22,I10,Reports fatigue episodically; denies chest pain. On meds for GAD.
+V00886,H10198,2024-05-23,I10,Patient presents with indigestion for 8 days. History of GERD. Vitals stable.
+V00665,H10187,2024-05-23,F41,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00905,H10329,2024-05-23,I10,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00610,H10367,2024-05-23,E78,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00654,H10087,2024-05-23,I10,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00085,H10231,2024-05-23,I10,Reports wheezing episodically; denies chest pain. On meds for sciatica.
+V00866,H10190,2024-05-23,K21,Reports insomnia episodically; denies chest pain. On meds for GAD.
+V01004,H10107,2024-05-24,M54,Patient presents with back pain for 12 days. History of asthma. Vitals stable.
+V00155,H10371,2024-05-24,J45,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01320,H10083,2024-05-24,G47,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00371,H10229,2024-05-24,G47,Reports back pain episodically; denies chest pain. On meds for CAD.
+V01300,H10219,2024-05-24,M54,Patient presents with insomnia for 2 days. History of GAD. Vitals stable.
+V01044,H10357,2024-05-24,F41,Reports insomnia episodically; denies chest pain. On meds for asthma.
+V00150,H10388,2024-05-24,K21,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00621,H10044,2024-05-24,I25,Patient presents with dizziness for 7 days. History of diabetes. Vitals stable.
+V01403,H10352,2024-05-24,K21,Patient presents with dizziness for 8 days. History of CAD. Vitals stable.
+V00384,H10246,2024-05-24,M54,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01464,H10151,2024-05-24,K21,Reports insomnia episodically; denies chest pain. On meds for GERD.
+V00865,H10050,2024-05-24,F41,Reports cough episodically; denies chest pain. On meds for OSA.
+V01088,H10115,2024-05-24,E11,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01344,H10287,2024-05-24,K21,Reports cough episodically; denies chest pain. On meds for hypertension.
+V00122,H10356,2024-05-24,G47,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01479,H10178,2024-05-25,K21,Patient presents with cough for 11 days. History of CAD. Vitals stable.
+V01441,H10227,2024-05-25,J45,Reports anxiety episodically; denies chest pain. On meds for sciatica.
+V00387,H10011,2024-05-26,F41,Patient presents with anxiety for 2 days. History of sciatica. Vitals stable.
+V01418,H10100,2024-05-26,K21,Patient presents with headache for 9 days. History of sciatica. Vitals stable.
+V01159,H10197,2024-05-26,I10,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00983,H10262,2024-05-26,E78,Reports insomnia episodically; denies chest pain. On meds for GERD.
+V00314,H10342,2024-05-26,G47,Reports anxiety episodically; denies chest pain. On meds for asthma.
+V01016,H10349,2024-05-26,M54,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01449,H10258,2024-05-26,J45,Reports dizziness episodically; denies chest pain. On meds for asthma.
+V00709,H10324,2024-05-26,J45,Patient presents with wheezing for 4 days. History of OSA. Vitals stable.
+V00337,H10313,2024-05-26,I10,Reports cough episodically; denies chest pain. On meds for hypertension.
+V01170,H10331,2024-05-26,I10,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01319,H10062,2024-05-27,J45,Patient presents with anxiety for 11 days. History of hyperlipidemia. Vitals stable.
+V00225,H10073,2024-05-27,G47,Reports headache episodically; denies chest pain. On meds for asthma.
+V00629,H10056,2024-05-27,J45,Patient presents with indigestion for 8 days. History of asthma. Vitals stable.
+V01353,H10133,2024-05-27,J45,Reports insomnia episodically; denies chest pain. On meds for CAD.
+V00471,H10143,2024-05-27,F41,Reports insomnia episodically; denies chest pain. On meds for asthma.
+V01032,H10357,2024-05-27,M54,Patient presents with indigestion for 5 days. History of CAD. Vitals stable.
+V00290,H10259,2024-05-27,K21,Patient presents with dizziness for 9 days. History of diabetes. Vitals stable.
+V01481,H10272,2024-05-27,K21,Patient presents with fatigue for 10 days. History of asthma. Vitals stable.
+V00835,H10369,2024-05-27,I10,Patient presents with back pain for 8 days. History of CAD. Vitals stable.
+V00213,H10324,2024-05-28,F41,Reports dizziness episodically; denies chest pain. On meds for hypertension.
+V01209,H10373,2024-05-28,E11,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00556,H10282,2024-05-28,K21,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01437,H10394,2024-05-28,I25,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00486,H10186,2024-05-28,E78,Reports headache episodically; denies chest pain. On meds for GERD.
+V01258,H10277,2024-05-28,E78,Reports anxiety episodically; denies chest pain. On meds for OSA.
+V00391,H10110,2024-05-28,K21,Reports cough episodically; denies chest pain. On meds for GAD.
+V01434,H10237,2024-05-29,E11,Patient presents with insomnia for 10 days. History of GERD. Vitals stable.
+V01290,H10037,2024-05-29,I25,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01419,H10298,2024-05-29,I25,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01499,H10050,2024-05-29,I10,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00914,H10068,2024-05-29,F41,Reports indigestion episodically; denies chest pain. On meds for asthma.
+V00080,H10111,2024-05-29,K21,Reports anxiety episodically; denies chest pain. On meds for sciatica.
+V01133,H10161,2024-05-29,I10,Patient presents with anxiety for 9 days. History of CAD. Vitals stable.
+V00882,H10210,2024-05-29,M54,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00196,H10317,2024-05-29,G47,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00520,H10359,2024-05-29,G47,Reports anxiety episodically; denies chest pain. On meds for hyperlipidemia.
+V01402,H10076,2024-05-30,I10,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00011,H10232,2024-05-30,F41,Reports dizziness episodically; denies chest pain. On meds for hyperlipidemia.
+V00322,H10191,2024-05-30,K21,Reports wheezing episodically; denies chest pain. On meds for hypertension.
+V01228,H10285,2024-05-30,F41,Reports wheezing episodically; denies chest pain. On meds for diabetes.
+V01227,H10279,2024-05-30,I25,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00633,H10135,2024-05-30,I10,Reports indigestion episodically; denies chest pain. On meds for CAD.
+V00158,H10003,2024-05-30,M54,Reports back pain episodically; denies chest pain. On meds for hypertension.
+V00293,H10045,2024-05-31,E78,Patient presents with insomnia for 10 days. History of GAD. Vitals stable.
+V01040,H10244,2024-05-31,I10,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00519,H10233,2024-05-31,E11,Patient presents with headache for 5 days. History of hyperlipidemia. Vitals stable.
+V01168,H10217,2024-05-31,F41,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00023,H10006,2024-05-31,F41,Reports dizziness episodically; denies chest pain. On meds for sciatica.
+V01375,H10080,2024-05-31,K21,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00807,H10315,2024-05-31,G47,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00223,H10019,2024-06-01,M54,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01457,H10262,2024-06-01,E11,Reports cough episodically; denies chest pain. On meds for diabetes.
+V00140,H10337,2024-06-01,G47,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00687,H10359,2024-06-01,J45,Reports fatigue episodically; denies chest pain. On meds for GERD.
+V00613,H10149,2024-06-01,G47,Patient presents with dizziness for 7 days. History of hyperlipidemia. Vitals stable.
+V00672,H10258,2024-06-01,F41,Reports insomnia episodically; denies chest pain. On meds for GERD.
+V01115,H10317,2024-06-01,I25,Reports dizziness episodically; denies chest pain. On meds for OSA.
+V00661,H10013,2024-06-02,I25,Reports wheezing episodically; denies chest pain. On meds for diabetes.
+V00342,H10251,2024-06-02,F41,Patient presents with dizziness for 11 days. History of GERD. Vitals stable.
+V00425,H10303,2024-06-03,I10,Patient presents with dizziness for 10 days. History of diabetes. Vitals stable.
+V01368,H10045,2024-06-03,I25,Reports indigestion episodically; denies chest pain. On meds for CAD.
+V00363,H10299,2024-06-03,E11,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00480,H10154,2024-06-04,E78,Patient presents with anxiety for 10 days. History of GERD. Vitals stable.
+V01299,H10394,2024-06-04,E78,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01455,H10321,2024-06-04,E78,Patient presents with wheezing for 13 days. History of diabetes. Vitals stable.
+V01381,H10395,2024-06-04,E78,Patient presents with cough for 11 days. History of OSA. Vitals stable.
+V00967,H10344,2024-06-04,I10,Patient presents with back pain for 13 days. History of diabetes. Vitals stable.
+V00658,H10023,2024-06-04,E78,Patient presents with indigestion for 7 days. History of asthma. Vitals stable.
+V00692,H10057,2024-06-05,J45,Reports anxiety episodically; denies chest pain. On meds for GERD.
+V01303,H10156,2024-06-05,E11,Patient presents with cough for 8 days. History of hyperlipidemia. Vitals stable.
+V00303,H10132,2024-06-05,I10,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00175,H10370,2024-06-05,E78,Patient presents with insomnia for 6 days. History of OSA. Vitals stable.
+V01138,H10318,2024-06-05,E78,Reports dizziness episodically; denies chest pain. On meds for asthma.
+V01260,H10371,2024-06-05,E78,Patient presents with dizziness for 5 days. History of GAD. Vitals stable.
+V00733,H10051,2024-06-05,G47,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01265,H10022,2024-06-05,I10,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01137,H10329,2024-06-05,E11,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00104,H10338,2024-06-05,M54,Patient presents with insomnia for 12 days. History of diabetes. Vitals stable.
+V01143,H10369,2024-06-06,G47,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00627,H10207,2024-06-06,E11,Patient presents with back pain for 11 days. History of diabetes. Vitals stable.
+V00430,H10044,2024-06-06,E11,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01391,H10180,2024-06-06,I25,Patient presents with anxiety for 11 days. History of asthma. Vitals stable.
+V00165,H10283,2024-06-06,E11,Reports dizziness episodically; denies chest pain. On meds for CAD.
+V00197,H10303,2024-06-06,G47,Patient presents with fatigue for 10 days. History of OSA. Vitals stable.
+V00938,H10392,2024-06-07,I25,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00864,H10003,2024-06-07,K21,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00919,H10044,2024-06-07,F41,Patient presents with fatigue for 7 days. History of hyperlipidemia. Vitals stable.
+V00785,H10211,2024-06-07,I25,Patient presents with back pain for 12 days. History of diabetes. Vitals stable.
+V00754,H10359,2024-06-07,I10,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00203,H10157,2024-06-07,M54,Reports anxiety episodically; denies chest pain. On meds for sciatica.
+V00992,H10233,2024-06-07,I10,Patient presents with wheezing for 9 days. History of GERD. Vitals stable.
+V01190,H10158,2024-06-07,F41,Reports insomnia episodically; denies chest pain. On meds for OSA.
+V01127,H10092,2024-06-08,I10,Patient presents with indigestion for 12 days. History of OSA. Vitals stable.
+V00082,H10315,2024-06-08,E78,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00030,H10231,2024-06-08,F41,Reports wheezing episodically; denies chest pain. On meds for hypertension.
+V01425,H10246,2024-06-08,I10,Patient presents with dizziness for 10 days. History of hyperlipidemia. Vitals stable.
+V01256,H10162,2024-06-08,E78,Reports wheezing episodically; denies chest pain. On meds for GERD.
+V01109,H10314,2024-06-09,K21,Patient presents with cough for 12 days. History of diabetes. Vitals stable.
+V01487,H10141,2024-06-09,E11,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00510,H10222,2024-06-09,E78,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01077,H10344,2024-06-09,G47,Patient presents with cough for 13 days. History of diabetes. Vitals stable.
+V00362,H10032,2024-06-09,K21,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00426,H10127,2024-06-09,J45,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00329,H10099,2024-06-09,G47,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00813,H10278,2024-06-09,I10,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00808,H10139,2024-06-09,M54,Reports back pain episodically; denies chest pain. On meds for CAD.
+V01047,H10212,2024-06-09,F41,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00129,H10041,2024-06-09,J45,Patient presents with anxiety for 9 days. History of CAD. Vitals stable.
+V00214,H10391,2024-06-10,I10,Reports wheezing episodically; denies chest pain. On meds for CAD.
+V00365,H10119,2024-06-10,E78,Patient presents with headache for 2 days. History of diabetes. Vitals stable.
+V00065,H10100,2024-06-10,I25,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00990,H10353,2024-06-10,E78,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00551,H10106,2024-06-10,J45,Reports anxiety episodically; denies chest pain. On meds for hyperlipidemia.
+V00616,H10328,2024-06-10,I25,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00847,H10093,2024-06-11,I25,Reports insomnia episodically; denies chest pain. On meds for hyperlipidemia.
+V01000,H10053,2024-06-11,G47,Patient presents with cough for 1 days. History of GAD. Vitals stable.
+V01013,H10397,2024-06-11,I10,Reports anxiety episodically; denies chest pain. On meds for CAD.
+V00644,H10213,2024-06-11,G47,Reports fatigue episodically; denies chest pain. On meds for OSA.
+V01271,H10167,2024-06-11,F41,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01306,H10303,2024-06-11,I25,Patient presents with insomnia for 7 days. History of OSA. Vitals stable.
+V00939,H10082,2024-06-11,I10,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01023,H10187,2024-06-11,I25,Reports cough episodically; denies chest pain. On meds for sciatica.
+V00714,H10349,2024-06-11,J45,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00930,H10301,2024-06-11,F41,Patient presents with fatigue for 1 days. History of OSA. Vitals stable.
+V01114,H10263,2024-06-12,J45,Patient presents with insomnia for 10 days. History of sciatica. Vitals stable.
+V00622,H10099,2024-06-12,I10,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V01197,H10194,2024-06-12,K21,Patient presents with headache for 7 days. History of GAD. Vitals stable.
+V00014,H10318,2024-06-12,M54,Reports fatigue episodically; denies chest pain. On meds for hypertension.
+V00001,H10126,2024-06-13,M54,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00481,H10141,2024-06-13,I10,Reports wheezing episodically; denies chest pain. On meds for hypertension.
+V00942,H10127,2024-06-13,J45,Patient presents with back pain for 13 days. History of hypertension. Vitals stable.
+V00053,H10035,2024-06-13,I10,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00407,H10392,2024-06-13,J45,Reports dizziness episodically; denies chest pain. On meds for sciatica.
+V01220,H10040,2024-06-13,G47,Patient presents with wheezing for 8 days. History of diabetes. Vitals stable.
+V00817,H10151,2024-06-13,G47,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00727,H10212,2024-06-13,G47,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01285,H10053,2024-06-13,J45,Patient presents with cough for 4 days. History of CAD. Vitals stable.
+V00423,H10110,2024-06-13,G47,Reports fatigue episodically; denies chest pain. On meds for GERD.
+V01012,H10355,2024-06-14,E78,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01389,H10137,2024-06-14,F41,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00708,H10141,2024-06-14,M54,Patient presents with fatigue for 8 days. History of asthma. Vitals stable.
+V01196,H10070,2024-06-14,I25,Reports wheezing episodically; denies chest pain. On meds for sciatica.
+V00002,H10091,2024-06-14,I10,Patient presents with fatigue for 4 days. History of GERD. Vitals stable.
+V00393,H10252,2024-06-15,K21,Patient presents with dizziness for 1 days. History of diabetes. Vitals stable.
+V00761,H10280,2024-06-15,E78,Patient presents with insomnia for 13 days. History of diabetes. Vitals stable.
+V00830,H10027,2024-06-15,K21,Patient presents with back pain for 1 days. History of asthma. Vitals stable.
+V01312,H10155,2024-06-15,M54,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01178,H10077,2024-06-15,F41,Reports fatigue episodically; denies chest pain. On meds for GERD.
+V00015,H10234,2024-06-15,I25,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00144,H10160,2024-06-15,M54,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00752,H10213,2024-06-15,J45,Reports dizziness episodically; denies chest pain. On meds for asthma.
+V00774,H10354,2024-06-16,E78,Patient presents with headache for 11 days. History of OSA. Vitals stable.
+V00448,H10378,2024-06-16,J45,Reports dizziness episodically; denies chest pain. On meds for diabetes.
+V01359,H10338,2024-06-16,F41,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01332,H10364,2024-06-16,E78,Reports dizziness episodically; denies chest pain. On meds for GERD.
+V00037,H10130,2024-06-17,G47,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00548,H10185,2024-06-17,E78,Patient presents with cough for 2 days. History of GAD. Vitals stable.
+V00980,H10278,2024-06-17,K21,Patient presents with insomnia for 12 days. History of sciatica. Vitals stable.
+V00554,H10367,2024-06-17,E78,Patient presents with fatigue for 13 days. History of GERD. Vitals stable.
+V00843,H10238,2024-06-17,J45,Reports fatigue episodically; denies chest pain. On meds for OSA.
+V00927,H10075,2024-06-18,E78,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00703,H10332,2024-06-18,M54,Patient presents with back pain for 8 days. History of asthma. Vitals stable.
+V00010,H10154,2024-06-18,G47,Reports headache episodically; denies chest pain. On meds for GAD.
+V01439,H10124,2024-06-18,J45,Reports fatigue episodically; denies chest pain. On meds for hypertension.
+V01447,H10091,2024-06-18,M54,Patient presents with insomnia for 3 days. History of OSA. Vitals stable.
+V01136,H10393,2024-06-18,I25,Reports fatigue episodically; denies chest pain. On meds for sciatica.
+V00809,H10127,2024-06-18,F41,Reports insomnia episodically; denies chest pain. On meds for diabetes.
+V00459,H10006,2024-06-18,M54,Patient presents with back pain for 7 days. History of sciatica. Vitals stable.
+V01195,H10392,2024-06-19,E78,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00514,H10004,2024-06-19,F41,Patient presents with insomnia for 12 days. History of diabetes. Vitals stable.
+V00739,H10398,2024-06-19,J45,Reports anxiety episodically; denies chest pain. On meds for asthma.
+V01406,H10170,2024-06-19,G47,Patient presents with insomnia for 11 days. History of hyperlipidemia. Vitals stable.
+V01297,H10347,2024-06-19,E11,Reports back pain episodically; denies chest pain. On meds for GAD.
+V00759,H10322,2024-06-19,J45,Reports wheezing episodically; denies chest pain. On meds for GAD.
+V00838,H10399,2024-06-19,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00138,H10131,2024-06-20,I25,Reports back pain episodically; denies chest pain. On meds for CAD.
+V00588,H10063,2024-06-20,I10,Reports back pain episodically; denies chest pain. On meds for sciatica.
+V00929,H10040,2024-06-20,G47,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00262,H10299,2024-06-20,M54,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00724,H10035,2024-06-20,I25,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00003,H10124,2024-06-20,I10,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00126,H10331,2024-06-20,I10,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01145,H10311,2024-06-20,K21,Reports anxiety episodically; denies chest pain. On meds for sciatica.
+V00081,H10291,2024-06-21,J45,Patient presents with headache for 12 days. History of OSA. Vitals stable.
+V00762,H10159,2024-06-21,G47,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01318,H10336,2024-06-21,G47,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00773,H10155,2024-06-21,E11,Patient presents with dizziness for 4 days. History of sciatica. Vitals stable.
+V00233,H10141,2024-06-21,M54,Patient presents with wheezing for 13 days. History of sciatica. Vitals stable.
+V00309,H10331,2024-06-21,M54,Reports dizziness episodically; denies chest pain. On meds for CAD.
+V01446,H10382,2024-06-21,J45,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00604,H10231,2024-06-21,M54,Reports fatigue episodically; denies chest pain. On meds for sciatica.
+V00330,H10357,2024-06-21,M54,Reports back pain episodically; denies chest pain. On meds for asthma.
+V00595,H10383,2024-06-21,E78,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00529,H10019,2024-06-22,I25,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00652,H10211,2024-06-22,G47,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00998,H10265,2024-06-22,F41,Patient presents with cough for 5 days. History of GAD. Vitals stable.
+V01222,H10169,2024-06-22,I10,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01086,H10058,2024-06-22,K21,Patient presents with insomnia for 9 days. History of hyperlipidemia. Vitals stable.
+V00045,H10276,2024-06-22,K21,Reports dizziness episodically; denies chest pain. On meds for GERD.
+V01463,H10072,2024-06-22,K21,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00717,H10124,2024-06-22,E78,Patient presents with cough for 7 days. History of asthma. Vitals stable.
+V00349,H10248,2024-06-22,E11,Patient presents with dizziness for 5 days. History of diabetes. Vitals stable.
+V01466,H10255,2024-06-22,M54,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01188,H10200,2024-06-22,E78,Reports insomnia episodically; denies chest pain. On meds for sciatica.
+V00176,H10198,2024-06-23,M54,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00562,H10006,2024-06-23,I25,Reports insomnia episodically; denies chest pain. On meds for CAD.
+V00567,H10108,2024-06-23,E11,Patient presents with dizziness for 10 days. History of GAD. Vitals stable.
+V00446,H10135,2024-06-23,G47,Patient presents with dizziness for 6 days. History of CAD. Vitals stable.
+V01064,H10306,2024-06-23,K21,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00569,H10217,2024-06-23,M54,Reports anxiety episodically; denies chest pain. On meds for CAD.
+V00028,H10057,2024-06-23,J45,Patient presents with back pain for 1 days. History of sciatica. Vitals stable.
+V01080,H10364,2024-06-24,G47,Reports anxiety episodically; denies chest pain. On meds for diabetes.
+V00747,H10278,2024-06-24,E11,Reports anxiety episodically; denies chest pain. On meds for OSA.
+V01022,H10205,2024-06-24,G47,Patient presents with anxiety for 4 days. History of diabetes. Vitals stable.
+V01048,H10386,2024-06-24,I25,Reports headache episodically; denies chest pain. On meds for GAD.
+V01247,H10060,2024-06-25,I25,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00174,H10220,2024-06-25,M54,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00760,H10372,2024-06-25,E78,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V01104,H10289,2024-06-25,I25,Reports fatigue episodically; denies chest pain. On meds for hyperlipidemia.
+V00577,H10040,2024-06-25,I10,Patient presents with anxiety for 5 days. History of OSA. Vitals stable.
+V01492,H10036,2024-06-26,G47,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00380,H10029,2024-06-26,G47,Patient presents with cough for 11 days. History of GAD. Vitals stable.
+V01358,H10025,2024-06-26,E11,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00632,H10024,2024-06-26,M54,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01089,H10006,2024-06-26,I10,Patient presents with dizziness for 9 days. History of hyperlipidemia. Vitals stable.
+V00721,H10209,2024-06-26,I10,Reports fatigue episodically; denies chest pain. On meds for GAD.
+V01167,H10065,2024-06-27,G47,Patient presents with headache for 3 days. History of GAD. Vitals stable.
+V00108,H10079,2024-06-27,E78,Reports anxiety episodically; denies chest pain. On meds for sciatica.
+V00186,H10028,2024-06-27,E11,Reports dizziness episodically; denies chest pain. On meds for sciatica.
+V00041,H10321,2024-06-27,I10,Patient presents with indigestion for 12 days. History of hyperlipidemia. Vitals stable.
+V01033,H10093,2024-06-27,K21,Reports indigestion episodically; denies chest pain. On meds for diabetes.
+V01096,H10096,2024-06-27,F41,Patient presents with headache for 1 days. History of hyperlipidemia. Vitals stable.
+V00147,H10237,2024-06-28,G47,Patient presents with insomnia for 9 days. History of GAD. Vitals stable.
+V00072,H10119,2024-06-28,F41,Reports cough episodically; denies chest pain. On meds for GAD.
+V00757,H10330,2024-06-28,I10,Reports fatigue episodically; denies chest pain. On meds for GERD.
+V01216,H10322,2024-06-28,K21,Patient presents with back pain for 12 days. History of GERD. Vitals stable.
+V00412,H10299,2024-06-28,E78,Reports wheezing episodically; denies chest pain. On meds for OSA.
+V00136,H10106,2024-06-28,J45,Reports fatigue episodically; denies chest pain. On meds for asthma.
+V00206,H10234,2024-06-28,E78,Patient presents with cough for 6 days. History of CAD. Vitals stable.
+V01364,H10083,2024-06-29,I10,Patient presents with cough for 10 days. History of CAD. Vitals stable.
+V00993,H10023,2024-06-29,I25,Reports cough episodically; denies chest pain. On meds for GAD.
+V01398,H10099,2024-06-29,E78,Reports dizziness episodically; denies chest pain. On meds for sciatica.
+V00516,H10343,2024-06-29,G47,Reports headache episodically; denies chest pain. On meds for OSA.
+V00579,H10129,2024-06-29,F41,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00057,H10074,2024-06-29,J45,Reports cough episodically; denies chest pain. On meds for sciatica.
+V01152,H10198,2024-06-29,K21,Patient presents with cough for 7 days. History of OSA. Vitals stable.
+V00742,H10156,2024-06-29,K21,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01292,H10261,2024-06-29,I10,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00083,H10329,2024-06-30,G47,Patient presents with headache for 3 days. History of hyperlipidemia. Vitals stable.
+V00902,H10377,2024-06-30,F41,Patient presents with dizziness for 3 days. History of GERD. Vitals stable.
+V00944,H10159,2024-06-30,E78,Reports indigestion episodically; denies chest pain. On meds for sciatica.
+V00849,H10355,2024-07-01,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00792,H10249,2024-07-01,I25,Reports wheezing episodically; denies chest pain. On meds for GERD.
+V00517,H10248,2024-07-01,J45,Patient presents with indigestion for 11 days. History of hypertension. Vitals stable.
+V00574,H10177,2024-07-01,E78,Patient presents with dizziness for 13 days. History of hyperlipidemia. Vitals stable.
+V00392,H10200,2024-07-01,M54,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00966,H10078,2024-07-01,M54,Reports back pain episodically; denies chest pain. On meds for CAD.
+V00620,H10125,2024-07-01,M54,Reports back pain episodically; denies chest pain. On meds for asthma.
+V00130,H10347,2024-07-01,M54,Patient presents with anxiety for 4 days. History of GAD. Vitals stable.
+V01105,H10234,2024-07-02,I10,Patient presents with cough for 2 days. History of hypertension. Vitals stable.
+V00973,H10130,2024-07-02,K21,Patient presents with insomnia for 1 days. History of hypertension. Vitals stable.
+V00804,H10229,2024-07-02,J45,Patient presents with insomnia for 6 days. History of GAD. Vitals stable.
+V00069,H10309,2024-07-02,K21,Patient presents with fatigue for 2 days. History of CAD. Vitals stable.
+V01186,H10161,2024-07-03,K21,Reports dizziness episodically; denies chest pain. On meds for hypertension.
+V00348,H10266,2024-07-03,E11,Reports anxiety episodically; denies chest pain. On meds for asthma.
+V00428,H10074,2024-07-03,J45,Reports insomnia episodically; denies chest pain. On meds for hyperlipidemia.
+V00848,H10301,2024-07-03,G47,Patient presents with cough for 6 days. History of hypertension. Vitals stable.
+V00235,H10141,2024-07-03,I10,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00208,H10071,2024-07-03,E78,Reports headache episodically; denies chest pain. On meds for hyperlipidemia.
+V00409,H10133,2024-07-04,K21,Reports back pain episodically; denies chest pain. On meds for CAD.
+V00198,H10305,2024-07-04,E78,Reports wheezing episodically; denies chest pain. On meds for GERD.
+V00964,H10143,2024-07-04,I10,Patient presents with wheezing for 3 days. History of sciatica. Vitals stable.
+V01234,H10096,2024-07-04,E11,Reports fatigue episodically; denies chest pain. On meds for hyperlipidemia.
+V01041,H10247,2024-07-04,E11,Reports fatigue episodically; denies chest pain. On meds for CAD.
+V01496,H10347,2024-07-04,G47,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00794,H10270,2024-07-04,F41,Reports anxiety episodically; denies chest pain. On meds for OSA.
+V00783,H10345,2024-07-04,J45,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V00073,H10333,2024-07-04,G47,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00781,H10095,2024-07-04,E11,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01111,H10088,2024-07-05,K21,Reports insomnia episodically; denies chest pain. On meds for hyperlipidemia.
+V00917,H10076,2024-07-05,E11,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01454,H10131,2024-07-05,K21,Patient presents with indigestion for 3 days. History of GERD. Vitals stable.
+V00256,H10391,2024-07-05,F41,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01339,H10005,2024-07-05,G47,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00201,H10043,2024-07-05,K21,Patient presents with indigestion for 3 days. History of diabetes. Vitals stable.
+V01024,H10076,2024-07-06,I25,Reports indigestion episodically; denies chest pain. On meds for OSA.
+V01343,H10121,2024-07-06,I10,Reports cough episodically; denies chest pain. On meds for hypertension.
+V00215,H10374,2024-07-06,J45,Patient presents with dizziness for 2 days. History of asthma. Vitals stable.
+V00563,H10220,2024-07-06,K21,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00483,H10022,2024-07-07,M54,Patient presents with back pain for 6 days. History of OSA. Vitals stable.
+V01155,H10066,2024-07-07,I25,Patient presents with indigestion for 4 days. History of CAD. Vitals stable.
+V00677,H10124,2024-07-07,E78,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V00960,H10163,2024-07-07,M54,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01417,H10165,2024-07-07,I25,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00501,H10354,2024-07-07,G47,Patient presents with indigestion for 6 days. History of OSA. Vitals stable.
+V01251,H10027,2024-07-07,F41,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01363,H10261,2024-07-07,J45,Reports dizziness episodically; denies chest pain. On meds for GAD.
+V00705,H10152,2024-07-07,I10,Patient presents with anxiety for 7 days. History of sciatica. Vitals stable.
+V01084,H10160,2024-07-07,J45,Reports back pain episodically; denies chest pain. On meds for hypertension.
+V00192,H10286,2024-07-07,I10,Reports fatigue episodically; denies chest pain. On meds for sciatica.
+V00355,H10326,2024-07-07,E78,Reports headache episodically; denies chest pain. On meds for sciatica.
+V00862,H10013,2024-07-07,K21,Reports cough episodically; denies chest pain. On meds for diabetes.
+V00968,H10376,2024-07-07,E11,Reports insomnia episodically; denies chest pain. On meds for GAD.
+V01450,H10079,2024-07-07,K21,Patient presents with insomnia for 5 days. History of asthma. Vitals stable.
+V01250,H10113,2024-07-07,E78,Follow-up visit. hypertension controlled. Recommending lifestyle changes.
+V01151,H10269,2024-07-07,I10,Patient presents with anxiety for 9 days. History of hypertension. Vitals stable.
+V00416,H10171,2024-07-07,E78,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00888,H10026,2024-07-07,M54,Reports anxiety episodically; denies chest pain. On meds for sciatica.
+V00673,H10038,2024-07-08,G47,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00605,H10016,2024-07-08,F41,Patient presents with headache for 3 days. History of CAD. Vitals stable.
+V00660,H10318,2024-07-08,G47,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00833,H10008,2024-07-08,G47,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V01294,H10267,2024-07-08,I25,Reports headache episodically; denies chest pain. On meds for diabetes.
+V01081,H10391,2024-07-08,K21,Patient presents with wheezing for 10 days. History of GERD. Vitals stable.
+V00763,H10017,2024-07-08,E78,Reports insomnia episodically; denies chest pain. On meds for GERD.
+V00728,H10170,2024-07-08,E78,Patient presents with dizziness for 7 days. History of sciatica. Vitals stable.
+V00261,H10208,2024-07-08,M54,Patient presents with dizziness for 6 days. History of GAD. Vitals stable.
+V01031,H10043,2024-07-08,J45,Reports cough episodically; denies chest pain. On meds for CAD.
+V00928,H10275,2024-07-08,G47,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V01308,H10284,2024-07-09,G47,Patient presents with indigestion for 8 days. History of GAD. Vitals stable.
+V01067,H10259,2024-07-09,F41,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00877,H10147,2024-07-09,E78,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00528,H10021,2024-07-09,F41,Patient presents with cough for 11 days. History of GAD. Vitals stable.
+V00111,H10276,2024-07-10,I25,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00135,H10197,2024-07-10,I10,Reports fatigue episodically; denies chest pain. On meds for hypertension.
+V01485,H10120,2024-07-10,F41,Reports back pain episodically; denies chest pain. On meds for diabetes.
+V01161,H10306,2024-07-10,J45,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00167,H10280,2024-07-10,E78,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01002,H10225,2024-07-10,G47,Patient presents with wheezing for 4 days. History of hyperlipidemia. Vitals stable.
+V01175,H10249,2024-07-10,E78,Patient presents with dizziness for 9 days. History of diabetes. Vitals stable.
+V00962,H10130,2024-07-11,F41,Reports insomnia episodically; denies chest pain. On meds for asthma.
+V01229,H10196,2024-07-11,M54,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00550,H10313,2024-07-11,M54,Patient presents with anxiety for 8 days. History of CAD. Vitals stable.
+V01373,H10074,2024-07-11,I10,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V00142,H10377,2024-07-11,E78,Patient presents with indigestion for 11 days. History of sciatica. Vitals stable.
+V00837,H10187,2024-07-11,I25,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V01132,H10090,2024-07-11,G47,Follow-up visit. OSA controlled. Recommending lifestyle changes.
+V01154,H10152,2024-07-12,K21,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00153,H10338,2024-07-13,I25,Reports indigestion episodically; denies chest pain. On meds for hyperlipidemia.
+V01252,H10358,2024-07-13,I10,Follow-up visit. hyperlipidemia controlled. Recommending lifestyle changes.
+V00397,H10382,2024-07-13,I10,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00920,H10010,2024-07-13,M54,Reports indigestion episodically; denies chest pain. On meds for CAD.
+V01123,H10363,2024-07-13,M54,Reports wheezing episodically; denies chest pain. On meds for GERD.
+V01117,H10179,2024-07-13,J45,Reports dizziness episodically; denies chest pain. On meds for GERD.
+V01224,H10293,2024-07-13,G47,Reports indigestion episodically; denies chest pain. On meds for GERD.
+V01166,H10364,2024-07-13,E11,Patient presents with headache for 13 days. History of GERD. Vitals stable.
+V01049,H10349,2024-07-13,J45,Reports anxiety episodically; denies chest pain. On meds for asthma.
+V00745,H10271,2024-07-13,F41,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00202,H10325,2024-07-13,G47,Patient presents with indigestion for 8 days. History of GAD. Vitals stable.
+V00482,H10055,2024-07-13,E11,Reports anxiety episodically; denies chest pain. On meds for GAD.
+V01103,H10154,2024-07-13,E78,Reports back pain episodically; denies chest pain. On meds for CAD.
+V00611,H10364,2024-07-13,M54,Reports insomnia episodically; denies chest pain. On meds for OSA.
+V00570,H10226,2024-07-13,G47,Patient presents with headache for 9 days. History of CAD. Vitals stable.
+V01173,H10251,2024-07-13,I25,Patient presents with indigestion for 12 days. History of hyperlipidemia. Vitals stable.
+V01354,H10184,2024-07-14,J45,Reports dizziness episodically; denies chest pain. On meds for GERD.
+V00434,H10318,2024-07-14,G47,Patient presents with back pain for 12 days. History of hypertension. Vitals stable.
+V00388,H10082,2024-07-14,F41,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00871,H10199,2024-07-14,I25,Patient presents with fatigue for 8 days. History of CAD. Vitals stable.
+V00991,H10221,2024-07-14,F41,Reports wheezing episodically; denies chest pain. On meds for CAD.
+V00989,H10221,2024-07-14,K21,Patient presents with insomnia for 12 days. History of OSA. Vitals stable.
+V00940,H10152,2024-07-14,K21,Reports indigestion episodically; denies chest pain. On meds for GERD.
+V01315,H10039,2024-07-15,M54,Patient presents with insomnia for 6 days. History of OSA. Vitals stable.
+V01014,H10171,2024-07-15,E11,Reports insomnia episodically; denies chest pain. On meds for GERD.
+V00007,H10211,2024-07-15,M54,Follow-up visit. GERD controlled. Recommending lifestyle changes.
+V01365,H10293,2024-07-15,M54,Reports insomnia episodically; denies chest pain. On meds for GAD.
+V00097,H10181,2024-07-15,F41,Patient presents with dizziness for 13 days. History of CAD. Vitals stable.
+V01279,H10378,2024-07-15,E11,Reports dizziness episodically; denies chest pain. On meds for diabetes.
+V01367,H10349,2024-07-15,F41,Follow-up visit. diabetes controlled. Recommending lifestyle changes.
+V00229,H10320,2024-07-15,I25,Patient presents with dizziness for 12 days. History of hypertension. Vitals stable.
+V00810,H10276,2024-07-15,I10,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00341,H10011,2024-07-15,E11,Reports cough episodically; denies chest pain. On meds for hypertension.
+V00436,H10098,2024-07-16,F41,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V00470,H10224,2024-07-16,I10,Reports cough episodically; denies chest pain. On meds for OSA.
+V00415,H10352,2024-07-16,J45,Follow-up visit. sciatica controlled. Recommending lifestyle changes.
+V00935,H10107,2024-07-16,I25,Reports dizziness episodically; denies chest pain. On meds for hypertension.
+V00169,H10206,2024-07-16,J45,Patient presents with indigestion for 2 days. History of asthma. Vitals stable.
+V00360,H10112,2024-07-16,I25,Follow-up visit. GAD controlled. Recommending lifestyle changes.
+V01150,H10240,2024-07-16,E11,Patient presents with indigestion for 4 days. History of sciatica. Vitals stable.
+V00059,H10173,2024-07-16,E78,Patient presents with indigestion for 1 days. History of hypertension. Vitals stable.
+V00000,H10355,2024-07-16,M54,Patient presents with anxiety for 1 days. History of GERD. Vitals stable.
+V00594,H10153,2024-07-17,F41,Patient presents with anxiety for 12 days. History of GERD. Vitals stable.
+V01444,H10301,2024-07-17,F41,Patient presents with dizziness for 9 days. History of GERD. Vitals stable.
+V00970,H10360,2024-07-17,I25,Reports back pain episodically; denies chest pain. On meds for hypertension.
+V00907,H10042,2024-07-17,E78,Patient presents with back pain for 7 days. History of asthma. Vitals stable.
+V00254,H10116,2024-07-17,J45,Follow-up visit. CAD controlled. Recommending lifestyle changes.
+V00050,H10197,2024-07-18,E78,Reports dizziness episodically; denies chest pain. On meds for hypertension.
+V01199,H10166,2024-07-18,E11,Patient presents with fatigue for 8 days. History of CAD. Vitals stable.
+V00291,H10045,2024-07-18,I10,Patient presents with back pain for 13 days. History of asthma. Vitals stable.
+V01225,H10090,2024-07-18,E11,Follow-up visit. asthma controlled. Recommending lifestyle changes.
+V00299,H10178,2024-07-18,M54,Reports cough episodically; denies chest pain. On meds for diabetes.
+V00019,H10142,2024-07-18,G47,Reports indigestion episodically; denies chest pain. On meds for hypertension.

@@ -47,6 +47,10 @@ coverage.xml
 
 # Data & Cache
 *.csv
+!before_after_sample_v2.csv
+!health_risk_predictions_v2.csv
+!healthcare_encounters.csv
+!healthcare_patients.csv
 *.xlsx
 *.json
 .streamlit/cache/
