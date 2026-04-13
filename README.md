@@ -47,7 +47,7 @@ This system analyzes healthcare patient data to:
 | LLM | Groq (llama-3.1-8b-instant) |
 | Embeddings | all-MiniLM-L6-v2 |
 | Vector Store | FAISS |
-| Deployment | Vercel / Streamlit Cloud |
+| Deployment | Streamlit Community Cloud |
 
 ---
 
@@ -62,11 +62,13 @@ capstone_healthcare/
 ├── healthcare_encounters.csv             # Patient encounter records
 ├── before_after_sample_v2.csv            # Sample before/after comparisons
 ├── requirements.txt                      # Python dependencies
-├── vercel.json                          # Vercel deployment config
+├── runtime.txt                           # Streamlit Cloud Python runtime pin
 ├── .streamlit/config.toml                # Streamlit configuration
 ├── .gitignore                           # Git ignore rules
 └── README.md                            # Project documentation
 ```
+
+Data files required by the app are committed to this repository: `health_risk_predictions_v2.csv`, `healthcare_patients.csv`, `healthcare_encounters.csv`, and `before_after_sample_v2.csv`.
 
 ---
 
