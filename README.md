@@ -1,6 +1,17 @@
 # 🏥 Health Risk Prediction System
 
-A comprehensive machine learning dashboard for healthcare risk assessment built with Streamlit, LLMs, and FAISS vector embeddings. This capstone project predicts patient health risk levels, identifies anomalies, and generates LLM-powered business summaries.
+**AI-Powered Patient Risk Intelligence Dashboard** — Predicts patient health risks, generates real-time LLM explanations, and detects clinical anomalies using machine learning and advanced embeddings.
+
+A production-grade healthcare analytics platform that combines machine learning risk stratification with generative AI to transform patient data into actionable clinical insights. This capstone project processes 400+ patient records through a state-of-the-art pipeline: patient demographics and clinical encounter data → risk scoring ML model → semantic understanding via FAISS embeddings → LLM-augmented explanations via Groq API → interactive Streamlit dashboard with real-time monitoring.
+
+**Key Capabilities:**
+- 🎯 **Risk Classification**: Stratify patients into HIGH/MEDIUM/LOW risk tiers (87.3% accuracy)
+- 🤖 **AI-Generated Summaries**: Instant plain-language risk explanations in ~2.88 seconds
+- ⚠️ **Anomaly Detection**: Flag unusual patterns and "silent risk" cases that traditional models miss
+- 📊 **Real-Time Analytics**: Interactive dashboards with filterable patient data and trend visualization
+- 📡 **LLMOps Monitoring**: Continuous embedding drift tracking to ensure AI reliability
+
+**Tech Stack:** Streamlit | Pandas/NumPy | Plotly | Groq API (llama-3.1-8b) | FAISS | Python
 
 ---
 
