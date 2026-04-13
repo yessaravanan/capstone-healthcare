@@ -1,5 +1,9 @@
 # Project-specific
 Oldversion/
+capstone-env/
+*.ppt
+*.pptx
+*.pdf
 
 # Virtual Environment
 .venv/
